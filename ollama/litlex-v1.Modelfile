@@ -1,0 +1,3 @@
+FROM ./litlex-v1-merged
+TEMPLATE """{{ .Prompt }}"""
+PARAMETER stop "<|end_of_text|>"
