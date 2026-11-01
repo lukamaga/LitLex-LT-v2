@@ -1,0 +1,14 @@
+{
+  "valid_on": "2026-11-01",
+  "valid_from": "2026-11-01",
+  "valid_to": "2026-12-31",
+  "suvestines_id": "NvdnNTbHjP",
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/NvdnNTbHjP",
+  "api_url": "https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=\"NvdnNTbHjP\"",
+  "revision": "ec682408-b187-4fe1-b2e2-2aec69d79589",
+  "updated_at_source": "2026-07-22T17:30:57",
+  "fetched": "2026-10-26",
+  "sha256": "670d8eb10c6db33f53ec43e3712335e29100d569d5750d4552101a86303db64b",
+  "chars": 1427350,
+  "license": "CC BY 4.0, Register of Legal Acts (TAR) via data.gov.lt"
+}
