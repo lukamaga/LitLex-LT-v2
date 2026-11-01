@@ -1,0 +1,429 @@
+{
+ "system": "LitLex v2 mid-term: bge-m3 retrieval, top 5 article parts, qwen3:8b with a JSON answer and a citation check",
+ "note": "Gold parts and fines were written in questions/questions.xlsx before the run. The two questions with an injected instruction are kept for the final and are not answered here.",
+ "questions": [
+  {
+   "id": "dev-001",
+   "kind": "ordinary",
+   "wording": "legal",
+   "question": "Kokia bauda gresia asmeniui už triukšmą gyvenamosiose patalpose nakties metu, kai tai trikdo kitų žmonių ramybę?",
+   "version": "2026-11-01",
+   "gold": [
+    "ank_2026-11-01#488(1)"
+   ],
+   "gold_answer": "ANK 488 str. 1 d. Viešosios rimties trikdymas: bauda nuo 80 iki 200 eurų.",
+   "retrieved": [
+    "ank_2026-11-01#488(1)",
+    "ank_2026-11-01#48(3)",
+    "ank_2026-11-01#48(1)",
+    "ank_2026-11-01#53(1)",
+    "ank_2026-11-01#53(3)"
+   ],
+   "answer": "Už triukšmą gyvenamosiose patalpose nakties metu, kai tai trikdo kitų žmonių ramybę, asmeniui gresia bauda nuo aštuoniasdešimt iki dviejų šimtų eurų pagal ANK 488 str. 1 d.",
+   "citations": [
+    "ank_2026-11-01#488(1)"
+   ],
+   "verdict": "correct",
+   "evidence": "488(1) is ranked 1 and cited; the answer gives 80 to 200 EUR, as the part does."
+  },
+  {
+   "id": "dev-002",
+   "kind": "ordinary",
+   "wording": "everyday",
+   "question": "Kaimynai naktį garsiai leidžia muziką ir neleidžia miegoti. Kokia bauda jiems gali būti skirta?",
+   "version": "2026-11-01",
+   "gold": [
+    "ank_2026-11-01#488(1)"
+   ],
+   "gold_answer": "ANK 488 str. 1 d. Viešosios rimties trikdymas: bauda nuo 80 iki 200 eurų.",
+   "retrieved": [
+    "ank_2026-11-01#488(1)",
+    "ank_2026-11-01#48(3)",
+    "ank_2026-11-01#374(1)",
+    "ank_2026-11-01#305(10)",
+    "ank_2026-11-01#48(1)"
+   ],
+   "answer": "Kaimynams, kurie naktį garsiai leidžia muziką ir neleidžia miegoti, gali būti skirta bauda nuo aštuoniasdešimt iki dviejų šimtų eurų pagal ANK 488 str. 1 d.",
+   "citations": [
+    "ank_2026-11-01#488(1)"
+   ],
+   "verdict": "correct",
+   "evidence": "488(1) is ranked 1 and cited; the answer gives 80 to 200 EUR, as the part does."
+  },
+  {
+   "id": "dev-003",
+   "kind": "exact_reference",
+   "wording": "legal",
+   "question": "Kokia bauda vairuotojui numatyta ANK 416 straipsnio 6 dalyje?",
+   "version": "2026-11-01",
+   "gold": [
+    "ank_2026-11-01#416(6)"
+   ],
+   "gold_answer": "ANK 416 str. 6 d. Nustatyto greičio viršijimas: bauda nuo 450 iki 550 eurų.",
+   "retrieved": [
+    "ank_2026-11-01#416(6)",
+    "ank_2026-11-01#424(6)",
+    "ank_2026-11-01#424(5)",
+    "ank_2026-11-01#416(4)",
+    "ank_2026-11-01#416(3)"
+   ],
+   "answer": "ANK 416 str. 6 d. numato, kad vairuotojui, kuris viršijo nustatyto greičio ribą daugiau kaip penkiasdešimt kilometrų per valandą, skiriama bauda nuo keturių šimtų penkiasdešimt iki penkių šimtų penkiasdešimt eurų.",
+   "citations": [
+    "ank_2026-11-01#416(6)"
+   ],
+   "verdict": "correct",
+   "evidence": "416(6) is ranked 1 and cited; the answer gives 450 to 550 EUR, as the part does."
+  },
+  {
+   "id": "dev-004",
+   "kind": "version",
+   "wording": "legal",
+   "question": "Kokia bauda darbdaviui grėsė už darbo užmokesčio apskaičiavimo ir mokėjimo tvarkos pažeidimą 2026 m. sausio 12 d.?",
+   "version": "2026-01-12",
+   "gold": [
+    "ank_2026-01-12#99(1)"
+   ],
+   "gold_answer": "ANK 99 str. 1 d. Darbo užmokesčio apskaičiavimo ir mokėjimo tvarkos pažeidimas: bauda nuo 300 iki 1450 eurų.",
+   "retrieved": [
+    "ank_2026-01-12#99(1)",
+    "ank_2026-01-12#99(3)",
+    "ank_2026-01-12#96(2)",
+    "ank_2026-01-12#96(1)",
+    "ank_2026-01-12#99(2)"
+   ],
+   "answer": "Už darbo užmokesčio apskaičiavimo ir mokėjimo tvarkos pažeidimą darbdavio grėsė bauda nuo 300 iki 1 400,50 eurų pagal ANK 99 str. 1 d.",
+   "citations": [
+    "ank_2026-01-12#99(1)"
+   ],
+   "verdict": "generation_failure",
+   "evidence": "99(1) is ranked 1 and cited, but the answer writes the upper bound 1450 as \"1 400,50\" (fine field 300 to 140050 EUR) while the part says 300 to 1450 EUR."
+  },
+  {
+   "id": "dev-005",
+   "kind": "no_answer",
+   "wording": "everyday",
+   "question": "Koks yra minimalus mėnesinis atlyginimas Lietuvoje 2026 metais?",
+   "version": "2026-11-01",
+   "gold": [],
+   "gold_answer": null,
+   "retrieved": [
+    "ank_2026-11-01#106(1)",
+    "ank_2026-11-01#188-5(1)",
+    "ank_2026-11-01#99(3)",
+    "ank_2026-11-01#95(1)",
+    "ank_2026-11-01#101(1)"
+   ],
+   "answer": "Atsakymo į šį klausimą ANK nerasta.",
+   "citations": [],
+   "verdict": "correct_refusal",
+   "evidence": "No ANK part answers this question; the system gave the not-found line and cited nothing."
+  },
+  {
+   "id": "dev-007",
+   "kind": "ordinary",
+   "wording": "legal",
+   "question": "Kokia bauda gresia už alkoholinių gėrimų gėrimą parke ar kitoje viešojoje vietoje?",
+   "version": "2026-11-01",
+   "gold": [
+    "ank_2026-11-01#484(1)"
+   ],
+   "gold_answer": "ANK 484 str. 1 d. Alkoholinių gėrimų gėrimas viešosiose vietose arba neblaivaus asmens pasirodymas viešosiose vietose: bauda nuo 20 iki 100 eurų.",
+   "retrieved": [
+    "ank_2026-11-01#484(1)",
+    "ank_2026-11-01#168(3)",
+    "ank_2026-11-01#484(2)",
+    "ank_2026-11-01#168(5)",
+    "ank_2026-11-01#168(7)"
+   ],
+   "answer": "Už alkoholinių gėrimų gėrimą parke ar kitoje viešojoje vietoje gresia bauda nuo 20 iki 100 eurų pagal ANK 484 str. 1 d.",
+   "citations": [
+    "ank_2026-11-01#484(1)"
+   ],
+   "verdict": "correct",
+   "evidence": "484(1) is ranked 1 and cited; the answer gives 20 to 100 EUR, as the part does."
+  },
+  {
+   "id": "dev-008",
+   "kind": "ordinary",
+   "wording": "everyday",
+   "question": "Vakare su draugais gėrėme alų parke ant suoliuko. Kokia bauda už tai gali būti?",
+   "version": "2026-11-01",
+   "gold": [
+    "ank_2026-11-01#484(1)"
+   ],
+   "gold_answer": "ANK 484 str. 1 d. Alkoholinių gėrimų gėrimas viešosiose vietose arba neblaivaus asmens pasirodymas viešosiose vietose: bauda nuo 20 iki 100 eurų.",
+   "retrieved": [
+    "ank_2026-11-01#484(1)",
+    "ank_2026-11-01#486(1)",
+    "ank_2026-11-01#488(1)",
+    "ank_2026-11-01#484(2)",
+    "ank_2026-11-01#168(5)"
+   ],
+   "answer": "Už alkoholinių gėrimų gėrimą parke vakare gali būti skirta bauda nuo 20 iki 100 eurų pagal ANK 484 str. 1 d.",
+   "citations": [
+    "ank_2026-11-01#484(1)"
+   ],
+   "verdict": "correct",
+   "evidence": "484(1) is ranked 1 and cited; the answer gives 20 to 100 EUR, as the part does."
+  },
+  {
+   "id": "dev-009",
+   "kind": "ordinary",
+   "wording": "legal",
+   "question": "Kokia bauda numatyta už smulkią vagystę?",
+   "version": "2026-11-01",
+   "gold": [
+    "ank_2026-11-01#108"
+   ],
+   "gold_answer": "ANK 108 str. Smulki vagystė, sukčiavimas, svetimo turto pasisavinimas ar iššvaistymas: bauda nuo 90 iki 400 eurų.",
+   "retrieved": [
+    "ank_2026-11-01#108",
+    "ank_2026-11-01#109",
+    "ank_2026-11-01#152(1)",
+    "ank_2026-11-01#481(1)",
+    "ank_2026-11-01#226(1)"
+   ],
+   "answer": "Už smulkią vagystę numatyta bauda nuo devyniasdešimt iki keturių šimtų eurų pagal ANK 108 str.",
+   "citations": [
+    "ank_2026-11-01#108"
+   ],
+   "verdict": "correct",
+   "evidence": "108 is ranked 1 and cited; the answer gives 90 to 400 EUR, as the part does."
+  },
+  {
+   "id": "dev-010",
+   "kind": "ordinary",
+   "wording": "everyday",
+   "question": "Parduotuvėje paėmiau šokoladą ir išėjau nesumokėjęs, mane sulaikė apsauga. Kokia bauda man gresia?",
+   "version": "2026-11-01",
+   "gold": [
+    "ank_2026-11-01#108"
+   ],
+   "gold_answer": "ANK 108 str. Smulki vagystė, sukčiavimas, svetimo turto pasisavinimas ar iššvaistymas: bauda nuo 90 iki 400 eurų.",
+   "retrieved": [
+    "ank_2026-11-01#130(6)",
+    "ank_2026-11-01#215(3)",
+    "ank_2026-11-01#248(6)",
+    "ank_2026-11-01#139(3)",
+    "ank_2026-11-01#209(5)"
+   ],
+   "answer": "Apsaugininkams gresia bauda nuo šešiasdešimt iki vieno šimto dvidešimt eurų už nepranešimą policijai apie sulaikytą įtariamą teisės pažeidėją, tačiau jūsų asmeninėje atsakomybėje ši suma nėra taikoma. Jūs turite sumokėti už šokoladą, jei jis buvo pirkiamas be mokesčių arba neapmokestinamas.",
+   "citations": [
+    "ank_2026-11-01#130(6)"
+   ],
+   "verdict": "retrieval_failure",
+   "evidence": "108 is not among the 5 retrieved parts (they start with 130(6), 215(3)); the answer cites 130(6) with 60 to 120 EUR."
+  },
+  {
+   "id": "dev-011",
+   "kind": "ordinary",
+   "wording": "legal",
+   "question": "Kokia bauda gresia už gydytojo ar mokytojo, teikiančio viešąsias paslaugas, garbės ir orumo pažeminimą žodžiu?",
+   "version": "2026-11-01",
+   "gold": [
+    "ank_2026-11-01#507-1"
+   ],
+   "gold_answer": "ANK 507¹ str. Viešąsias paslaugas teikiančio asmens garbės ir orumo pažeminimas: bauda nuo 50 iki 300 eurų.",
+   "retrieved": [
+    "ank_2026-11-01#507-1",
+    "ank_2026-11-01#507",
+    "ank_2026-11-01#508",
+    "ank_2026-11-01#499(1)",
+    "ank_2026-11-01#481(1)"
+   ],
+   "answer": "Už gydytojo ar mokytojo, teikiančio viešąsias paslaugas, garbės ir orumo pažeminimą žodžiu gresia bauda nuo penkiasdešimt iki trijų šimtų eurų pagal ANK 507 str. 1 d.",
+   "citations": [
+    "ank_2026-11-01#507-1"
+   ],
+   "verdict": "correct",
+   "evidence": "507-1 is ranked 1 and cited; the answer gives 50 to 300 EUR, as the part does, but its text names the article \"ANK 507 str. 1 d.\" instead of 507¹."
+  },
+  {
+   "id": "dev-012",
+   "kind": "ordinary",
+   "wording": "everyday",
+   "question": "Poliklinikoje susinervinau ir išvadinau gydytoją bjauriais žodžiais. Kokia bauda man gali būti skirta?",
+   "version": "2026-11-01",
+   "gold": [
+    "ank_2026-11-01#507-1"
+   ],
+   "gold_answer": "ANK 507¹ str. Viešąsias paslaugas teikiančio asmens garbės ir orumo pažeminimas: bauda nuo 50 iki 300 eurų.",
+   "retrieved": [
+    "ank_2026-11-01#71(2)",
+    "ank_2026-11-01#420(4)",
+    "ank_2026-11-01#508",
+    "ank_2026-11-01#71(1)",
+    "ank_2026-11-01#420(5)"
+   ],
+   "answer": "Jei jūsų veiksmas yra pažeminęs gydytojo garbę ir orumą, jums gali būti skirta bauda nuo devyniasdešimt iki vieno šimto keturiasdešimt eurų pagal ANK 508 str.",
+   "citations": [
+    "ank_2026-11-01#508"
+   ],
+   "verdict": "retrieval_failure",
+   "evidence": "507-1 is not among the 5 retrieved parts (they start with 71(2), 420(4)); the answer cites 508 with 90 to 140 EUR."
+  },
+  {
+   "id": "dev-013",
+   "kind": "ordinary",
+   "wording": "legal",
+   "question": "Kokia bauda skiriama asmeniui, kuris vairuoja automobilį neturėdamas teisės vairuoti?",
+   "version": "2026-11-01",
+   "gold": [
+    "ank_2026-11-01#424(3)"
+   ],
+   "gold_answer": "ANK 424 str. 3 d. Transporto priemonės vairavimas neturint teisės vairuoti, vairavimas, kai vairuojančiam asmeniui atimta ar sustabdyta teisė vairuoti transporto priemones, arba transporto priemonės perdavimas tokiam asmeniui vairuoti, vairavimas nepasitikrinus sveikatos nustatytu periodiškumu, nesilaikant vairuotojui taikomų apribojimų ar pasibaigus vairuotojo pažymėjimo galiojimo laikui: bauda nuo 300 iki 450 eurų.",
+   "retrieved": [
+    "ank_2026-11-01#424(3)",
+    "ank_2026-11-01#424(2)",
+    "ank_2026-11-01#430",
+    "ank_2026-11-01#424(6)",
+    "ank_2026-11-01#424(5)"
+   ],
+   "answer": "Asmeniui, kuris vairuoja automobilį neturėdamas teisės vairuoti, skiriama bauda nuo trijų šimtų iki keturių šimtų penkiasdešimt eurų pagal ANK 424 str. 3 d.",
+   "citations": [
+    "ank_2026-11-01#424(3)"
+   ],
+   "verdict": "correct",
+   "evidence": "424(3) is ranked 1 and cited; the answer gives 300 to 450 EUR, as the part does."
+  },
+  {
+   "id": "dev-014",
+   "kind": "ordinary",
+   "wording": "everyday",
+   "question": "Draugas dar neišlaikė vairavimo egzamino, bet važinėja tėvo mašina. Kokia bauda jam gali būti skirta?",
+   "version": "2026-11-01",
+   "gold": [
+    "ank_2026-11-01#424(3)"
+   ],
+   "gold_answer": "ANK 424 str. 3 d. Transporto priemonės vairavimas neturint teisės vairuoti, vairavimas, kai vairuojančiam asmeniui atimta ar sustabdyta teisė vairuoti transporto priemones, arba transporto priemonės perdavimas tokiam asmeniui vairuoti, vairavimas nepasitikrinus sveikatos nustatytu periodiškumu, nesilaikant vairuotojui taikomų apribojimų ar pasibaigus vairuotojo pažymėjimo galiojimo laikui: bauda nuo 300 iki 450 eurų.",
+   "retrieved": [
+    "ank_2026-11-01#424(6)",
+    "ank_2026-11-01#424(1)",
+    "ank_2026-11-01#422(3)",
+    "ank_2026-11-01#415(2)",
+    "ank_2026-11-01#424(4)"
+   ],
+   "answer": "Draugui, kuris dar neišlaikė vairavimo egzamino ir važinėja tėvo mašina, gali būti skirta bauda nuo trisdešimt iki penkiasdešimt eurų pagal ANK 424 str. 1 d. Jei jis vairavo neturėdamas teisės vairuoti, tai gali būti bauda nuo vieno tūkstančio vieno šimto iki vieno tūkstančio penkių šimtų eurų pagal ANK 424 str. 6 d.",
+   "citations": [
+    "ank_2026-11-01#424(6)",
+    "ank_2026-11-01#424(1)"
+   ],
+   "verdict": "retrieval_failure",
+   "evidence": "424(3) is not among the 5 retrieved parts (they start with 424(6), 424(1)); the answer cites 424(6), 424(1) with 30 to 50 EUR."
+  },
+  {
+   "id": "dev-015",
+   "kind": "exact_reference",
+   "wording": "legal",
+   "question": "Kokia bauda numatyta ANK 419¹ str. 1 d.?",
+   "version": "2026-11-01",
+   "gold": [
+    "ank_2026-11-01#419-1(1)"
+   ],
+   "gold_answer": "ANK 419¹ str. 1 d. Įvažiavimo į savivaldybių tarybų nustatytas mažos taršos zonas ir naudojimosi jomis tvarkos pažeidimas: bauda nuo 40 iki 80 eurų.",
+   "retrieved": [
+    "ank_2026-11-01#79-1(2)",
+    "ank_2026-11-01#79-1(1)",
+    "ank_2026-11-01#51(3)",
+    "ank_2026-11-01#51(1)",
+    "ank_2026-11-01#370-1(1)"
+   ],
+   "answer": "Atsakymo į šį klausimą ANK nerasta.",
+   "citations": [],
+   "verdict": "retrieval_failure",
+   "evidence": "419-1(1) is not among the 5 retrieved parts (they start with 79-1(2), 79-1(1)); the system said the answer was not found."
+  },
+  {
+   "id": "dev-016",
+   "kind": "exact_reference",
+   "wording": "legal",
+   "question": "Ar pagal ANK 346 straipsnio 1 dalį asmeniui gali būti skirta 200 eurų bauda?",
+   "version": "2026-11-01",
+   "gold": [
+    "ank_2026-11-01#346(1)"
+   ],
+   "gold_answer": "ANK 346 str. 1 d. Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymo ir kitų gyvūnų gerovės ir apsaugos, atskirų rūšių gyvūnų ženklinimo ir registravimo reikalavimus reglamentuojančių teisės aktų pažeidimas: bauda nuo 30 iki 120 eurų.",
+   "retrieved": [
+    "ank_2026-11-01#346(3)",
+    "ank_2026-11-01#346(18)",
+    "ank_2026-11-01#346(16)",
+    "ank_2026-11-01#346(8)",
+    "ank_2026-11-01#346(19)"
+   ],
+   "answer": "Pagal ANK 346 str. 18 d. asmeniui gali būti skirta bauda nuo devynių šimtų iki trijų tūkstančių dviejų šimtų eurų. 200 eurų bauda nėra minimali, todėl ji nėra leidžiama pagal šį straipsnį.",
+   "citations": [
+    "ank_2026-11-01#346(18)"
+   ],
+   "verdict": "retrieval_failure",
+   "evidence": "346(1) is not among the 5 retrieved parts (they start with 346(3), 346(18)); the answer cites 346(18) with 900 to 3200 EUR."
+  },
+  {
+   "id": "dev-017",
+   "kind": "version",
+   "wording": "legal",
+   "question": "Kokia bauda asmeniui grėsė už kultūros paveldo apsaugos reikalavimų pažeidimą 2026 m. sausio 12 d.?",
+   "version": "2026-01-12",
+   "gold": [
+    "ank_2026-01-12#314(1)"
+   ],
+   "gold_answer": "ANK 314 str. 1 d. Kultūros paveldo apsaugos reikalavimų pažeidimas: bauda nuo 150 iki 300 eurų.",
+   "retrieved": [
+    "ank_2026-01-12#314(1)",
+    "ank_2026-01-12#314(3)",
+    "ank_2026-01-12#314(5)",
+    "ank_2026-01-12#314(6)",
+    "ank_2026-01-12#314(2)"
+   ],
+   "answer": "Už kultūros paveldo apsaugos reikalavimų pažeidimą asmeniui grėsė bauda nuo 150 iki 300 eurų pagal ANK 314 str. 1 d.",
+   "citations": [
+    "ank_2026-01-12#314(1)"
+   ],
+   "verdict": "correct",
+   "evidence": "314(1) is ranked 1 and cited; the answer gives 150 to 300 EUR, as the part does."
+  },
+  {
+   "id": "dev-018",
+   "kind": "version",
+   "wording": "legal",
+   "question": "Kokia bauda nuo 2026 m. lapkričio 1 d. gresia valstybės įstaigos vadovui, kuris atsisako teikti informaciją žurnalistams, nenurodydamas atsisakymo priežasties?",
+   "version": "2026-11-01",
+   "gold": [
+    "ank_2026-11-01#547(1)"
+   ],
+   "gold_answer": "ANK 547 str. 1 d. Atsisakymas teikti informaciją visuomenės informavimo priemonių atstovams ar trukdymas žurnalistams atlikti profesines pareigas: bauda nuo 60 iki 300 eurų.",
+   "retrieved": [
+    "ank_2026-11-01#547(1)",
+    "ank_2026-11-01#547(2)",
+    "ank_2026-11-01#136(1)",
+    "ank_2026-11-01#476-1(1)",
+    "ank_2026-11-01#221(1)"
+   ],
+   "answer": "Valstybės įstaigos vadovui, kuris atsisako teikti informaciją žurnalistams, nenurodydamas atsisakymo priežasties, nuo 2026 m. lapkričio 1 d. gresia bauda nuo šešiasdešimt iki trijų šimtų eurų pagal ANK 547 str. 1 d.",
+   "citations": [
+    "ank_2026-11-01#547(1)"
+   ],
+   "verdict": "correct",
+   "evidence": "547(1) is ranked 1 and cited; the answer gives 60 to 300 EUR, as the part does."
+  },
+  {
+   "id": "dev-019",
+   "kind": "no_answer",
+   "wording": "legal",
+   "question": "Kokia laisvės atėmimo bausmė gresia už plėšimą?",
+   "version": "2026-11-01",
+   "gold": [],
+   "gold_answer": null,
+   "retrieved": [
+    "ank_2026-11-01#108",
+    "ank_2026-11-01#226(1)",
+    "ank_2026-11-01#229(2)",
+    "ank_2026-11-01#277(1)",
+    "ank_2026-11-01#229(1)"
+   ],
+   "answer": "Atsakymo į šį klausimą ANK nerasta.",
+   "citations": [],
+   "verdict": "correct_refusal",
+   "evidence": "No ANK part answers this question; the system gave the not-found line and cited nothing."
+  }
+ ]
+}
