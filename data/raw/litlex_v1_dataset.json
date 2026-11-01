@@ -1,0 +1,1994 @@
+[
+  {
+    "Instruction": "Kokia bauda už turto konfiskavimą?",
+    "Output": "Administracinių nusižengimų kodekse nurodyta, kad perkvalifikuojant veiką turto konfiskavimas gali būti taikomas kaip nuobauda arba privalomasis veiksmas už tam tikrus nusižengimus."
+  },
+  {
+    "Instruction": "Ar veikos, padarytos iki 2017 m. sausio 1 d., gali būti perkvalifikuotos pagal naują kodeksą?",
+    "Output": "Pagal Administracinių nusižengimų kodekso 3 straipsnį veikos, padarytos iki 2017 m. sausio 1 d., gali būti perkvalifikuojamos, jei naujame kodekse nustatyta švelnesnė atsakomybė."
+  },
+  {
+    "Instruction": "Ką reiškia administracinės nuobaudos vykdymo tęstinumas?",
+    "Output": "Administracinių nusižengimų kodekse numatyta, kad iki 2017 m. sausio 1 d. įsiteisėję administracinės nuobaudos nutarimai vykdomi neatidėliotinai, kol bausmė bus visiškai atlikta, išskyrus kodekse numatytus išimtinius atvejus."
+  },
+  {
+    "Instruction": "Koks yra baudos dydžio keitimo pagrindas?",
+    "Output": "Pagal Administracinių nusižengimų kodekso 6 straipsnį, asmeniui paskirta bauda gali būti sumažinta iki maksimalaus kodekse nustatyto dydžio, jei jis viršija už nusižengimą nustatytą maksimalią baudą."
+  },
+  {
+    "Instruction": "Kokia yra administracinės atsakomybės taisyklė, jei nusižengimas padarytas apsvaigus nuo alkoholio?",
+    "Output": "Pagal ANK 11 straipsnį, asmuo, kuris padaro administracinį nusižengimą būdamas neblaivus, nuo atsakomybės neatleidžiamas, jei apsvaigimas buvo jo paties valia."
+  },
+  {
+    "Instruction": "Kokio amžiaus asmenys atsako administracine tvarka pagal šį kodeksą?",
+    "Output": "Pagal ANK 6 straipsnį, administracine tvarka atsako asmenys, kuriems iki administracinio nusižengimo padarymo buvo sukakę šešiolika metų."
+  },
+  {
+    "Instruction": "Kokiais atvejais būtina gintis yra laikoma pateisinama ir nebaudžiama veika?",
+    "Output": "Pagal ANK 13 straipsnį, būtina ginti teisėtai, neperžengiant ribų, siekiant apsaugoti savo ar kitų asmenų teises, visuomenės ar valstybės interesus nuo pavojingo ir priešingo teisei kėsinimosi."
+  },
+  {
+    "Instruction": "Kada asmeniui netaikoma atsakomybė už administracinį nusižengimą dėl psichikos sutrikimo?",
+    "Output": "Pagal ANK 10 straipsnį, asmuo laikomas nepakaltinamu ir neatsako už administracinį nusižengimą, jei dėl psichikos sutrikimo negalėjo suvokti veikos esmės arba valdyti savo veiksmų."
+  },
+  {
+    "Instruction": "Ar galima būti atleistam nuo atsakomybės, jei buvo vadovaujamasi klaidinga oficialia konsultacija?",
+    "Output": "Pagal ANK 21 straipsnį, asmuo neatsako už administracinį nusižengimą, jei jis vadovavosi klaidinga oficialia konsultacija, apibrėžta kituose įstatymuose."
+  },
+  {
+    "Instruction": "Kokia yra atsakomybė už administracinį nusižengimą, padarytą dėl neatsargumo?",
+    "Output": "Pagal ANK 9 straipsnį, administracinis nusižengimas dėl neatsargumo yra padarytas dėl nepagrįsto pasitikėjimo arba nerūpestingumo, jei asmuo neatsižvelgė į galimus padarinius ir lengvabūdiškai tikėjosi jų išvengti arba jų nenumatė, nors galėjo ir turėjo."
+  },
+  {
+    "Instruction": "Kokia yra baudos suma pagal LR Administracinių nusižengimų kodeksą?",
+    "Output": "Pagal ANK 25 str., bauda yra piniginė administracinė nuobauda, kurios dydis gali būti nuo penkių iki šešių tūkstančių eurų."
+  },
+  {
+    "Instruction": "Ką reiškia viešieji darbai pagal LR Administracinių nusižengimų kodeksą?",
+    "Output": "Pagal ANK 26 str., viešieji darbai yra neatlygintini visuomenei naudingi darbai, skiriami vietoj baudos ar jos dalies."
+  },
+  {
+    "Instruction": "Kokia administracinė poveikio priemonė gali būti skirta už pažeidimą pagal LR Administracinių nusižengimų kodeksą?",
+    "Output": "Pagal ANK 27 str., administracinės poveikio priemonės gali apimti, pavyzdžiui, specialiosios teisės atėmimą, turto konfiskavimą ir draudimą lankytis renginiuose."
+  },
+  {
+    "Instruction": "Kada draudimas lankytis viešosiose vietose vykstančiuose renginiuose gali būti taikomas pagal LR Administracinių nusižengimų kodeksą?",
+    "Output": "Pagal ANK 31 str., draudimas gali būti taikomas kartu su administracine nuobauda, ir trukmė gali būti nuo vieno mėnesio iki dvejų metų."
+  },
+  {
+    "Instruction": "Ką reiškia asmeniui suteiktos specialiosios teisės atėmimas pagal LR Administracinių nusižengimų kodeksą?",
+    "Output": "Pagal ANK 28 str., asmeniui gali būti atimta specialioji teisė, tokią kaip teisė vairuoti transporto priemones, jei naudodamasis šia teise asmuo padarė administracinį nusižengimą."
+  },
+  {
+    "Instruction": "Kokia bauda, jei asmuo padaro pakartotinį nusižengimą?",
+    "Output": "Pagal ANK 223 straipsnio 2 dalį ir kitus straipsnius, minimali bauda yra skiriama už pakartotinį nusižengimą."
+  },
+  {
+    "Instruction": "Ką reiškia nurodymas skiriamas už pakartotinį administracinį nusižengimą pagal ANK?",
+    "Output": "ANK nurodo, kad asmeniui siūloma sumokėti minimalią baudą, jei padarytas pakartotinis nusižengimas, numatytas specifiniuose straipsniuose."
+  },
+  {
+    "Instruction": "Kokią baudą gali skirti, jei administracinė byla nagrinėjama ne teismo tvarka?",
+    "Output": "ANK leidžia skirti mažesnę baudą nei numatyta minimali, arba net neskirti jokios, vadovaujantis teisingumo ir protingumo principais."
+  },
+  {
+    "Instruction": "Kokia yra specialiosios teisės atėmimo trukmė, kai yra atsakomybę lengvinančios aplinkybės?",
+    "Output": "Specialiosios teisės atėmimo trukmė yra ne ilgesnė negu vidurkis, kai yra atsakomybę lengvinančios aplinkybės."
+  },
+  {
+    "Instruction": "Ar galima sumažinti administracinę nuobaudą dėl atsakomybę lengvinančių aplinkybių?",
+    "Output": "Taip, ANK leidžia sumažinti nuobaudą, jei yra atsakomybę lengvinančių aplinkybių."
+  },
+  {
+    "Instruction": "Kokia bauda už visuomenės sveikatos srities teisės aktų pažeidimą?",
+    "Output": "Pagal ANK 45 str. 1 d., bauda asmenims yra nuo 60 iki 140 eurų, o juridinių asmenų vadovams nuo 140 iki 600 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už pakartotinį visuomenės sveikatos srities teisės aktų pažeidimą?",
+    "Output": "Pagal ANK 45 str. 2 d., bauda asmenims yra nuo 140 iki 600 eurų, o juridinių asmenų vadovams nuo 550 iki 1200 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda asmenims už teisės aktų dėl žmonių radiacinės saugos pažeidimą?",
+    "Output": "Pagal ANK 47 str. 1 d., bauda asmenims yra nuo 60 iki 140 eurų, o juridinių asmenų vadovams nuo 140 iki 300 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už nevykdymą savivaldybių sprendimų dėl kovos su užkrečiamomis ligomis?",
+    "Output": "Pagal ANK 46 str. 1 d., bauda asmenims yra nuo 30 iki 90 eurų, o juridinių asmenų vadovams nuo 140 iki 300 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už savivaldybių sprendimų dėl užkrečiamųjų ligų nevykdymą karo ar ekstremalios situacijos metu?",
+    "Output": "Pagal ANK 46 str. 3 d., bauda asmenims yra nuo 250 iki 800 eurų, o juridinių asmenų vadovams nuo 800 iki 1500 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda fiziniams asmenims už potencialiai pavojingų įrenginių naudojimą nustačius jų veiklos sutrikimus?",
+    "Output": "Pagal ANK 5 dalį, bauda fiziniams asmenims nuo trijų šimtų iki šešių šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už triukšmo valdymo įstatymo nevykdymą?",
+    "Output": "Pagal 48 straipsnio 1 dalį, bauda nuo vieno šimto iki šešių šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia yra bauda už pakartotinį biocidinių produktų naudojimo pažeidimą?",
+    "Output": "Pagal 49 straipsnio 2 dalį, bauda asmenims nuo penkiasdešimt iki trijų šimtų eurų ir juridinių asmenų vadovams nuo keturių šimtų aštuoniasdešimt iki trijų tūkstančių eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už kosmetikos gaminių gamybos reikalavimų pažeidimą?",
+    "Output": "Pagal 50 straipsnio 1 dalį, užtraukia įspėjimą arba baudą nuo penkiasdešimt iki trijų šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už ūkinės veiklos vykdymą nenustačius sanitarinės apsaugos zonų?",
+    "Output": "Pagal 53 straipsnio 1 dalį, bauda asmenims nuo dviejų šimtų penkiasdešimt iki keturių šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda nepateikus prašymo dėl nustatytų sanitarinių apsaugos zonų įrašymo Nekilnojamojo turto registre?",
+    "Output": "Pagal LR ANK straipsnį, už šį nusižengimą gresia bauda nuo 150 iki 400 eurų asmenims, o juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo 250 iki 650 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už asmens sveikatos priežiūros specialistų pareigų netinkamą atlikimą?",
+    "Output": "Pagal LR ANK 54 straipsnį, už šį nusižengimą gresia bauda nuo 140 iki 300 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už tyčinį melagingų duomenų apie privalomojo sveikatos draudimo įmokų mokėjimą pateikimą?",
+    "Output": "Pagal LR ANK 56 straipsnį, asmenims už šį nusižengimą skiriama bauda nuo 140 iki 300 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už neteisingų duomenų apie suteiktas sveikatos paslaugas pateikimą, kai žala viršija 300 eurų?",
+    "Output": "Pagal LR ANK 57 straipsnį, už šį nusižengimą yra skiriama bauda nuo 300 iki 560 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už falcifikatorių vaistinių preparatų gamybą ir platinimą, jei tai padarė žalos asmens sveikatai?",
+    "Output": "Pagal LR ANK 63 straipsnį, už šį nusižengimą skiriama bauda nuo 2300 iki 3500 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už vaistų įvežimo taisyklių pažeidimą, kai vertė neviršija penkių bazinių bausmių?",
+    "Output": "Pagal ANK straipsnį, bauda yra įspėjimas arba nuo trisdešimt iki dviejų šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už pakartotiną vaistų įvežimo taisyklių pažeidimą, kai vertė viršija penkis, bet neviršija penkiasdešimt bazinių bausmių?",
+    "Output": "Pagal ANK straipsnį, bauda yra nuo keturių šimtų iki aštuonių šimtų šešiasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už farmacinės praktikos sąlygų pažeidimą?",
+    "Output": "Pagal ANK, bauda yra nuo trisdešimt iki dviejų šimtų devyniasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už receptinių vaistų reklamos gyventojams pažeidimą?",
+    "Output": "Pagal ANK, bauda juridinių asmenų vadovams ar kitiems atsakingiems asmenims yra nuo vieno tūkstančio dviejų šimtų iki dviejų tūkstančių trijų šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už Europos Sąjungos reglamentus pažeidžiančią veiklą su narkotinių ar psichotropinių medžiagų pirmtakais?",
+    "Output": "Pagal ANK, bauda yra nuo aštuonių šimtų iki vieno tūkstančio aštuonių šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda klinikinius vaistinių preparatų tyrimus atliekantiems tyrėjams už pakartotinį teisės aktų pažeidimą?",
+    "Output": "Pagal ANK, bauda yra nuo vieno tūkstančio iki dviejų tūkstančių eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už vaistinio preparato lygiagretaus importo leidimo turėtojo pareigų pažeidimą?",
+    "Output": "Pagal LR Administracinių nusižengimų kodekso 681 straipsnį, bauda juridinių asmenų vadovams nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už neteisėtą dopingo medžiagų laikymą be tikslo parduoti?",
+    "Output": "Pagal LR Administracinių nusižengimų kodekso 69 straipsnį, bauda asmenims nuo vieno šimto keturiasdešimt iki trijų šimtų eurų, o juridinių asmenų vadovams nuo aštuonių šimtų iki vieno tūkstančio aštuonių šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už informacijos apie tabako gaminius teikimo tvarkos pažeidimą?",
+    "Output": "Pagal LR Administracinių nusižengimų kodekso 70 straipsnį, bauda asmenims nuo keturiolikos iki trisdešimt eurų, o juridinių asmenų vadovams nuo trisdešimt iki penkiasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už vaikų teisių pažeidimą?",
+    "Output": "Pagal LR Administracinių nusižengimų kodekso 72 straipsnį, bauda už vaikų teisių pažeidimą svyruoja nuo dvidešimt iki penkiasdešimt eurų, o pakartotinis pažeidimas nuo šešiasdešimt iki vieno šimto eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už alkoholinių gėrimų perdavimą jaunesniems negu dvidešimt metų asmenims?",
+    "Output": "Pagal LR Administracinių nusižengimų kodekso 76 straipsnį, bauda nuo devyniasdešimt iki vieno šimto aštuoniasdešimt eurų, o pakartotinis nusižengimas nuo vieno šimto aštuoniasdešimt iki keturių šimtų keturiasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už tabako gaminių pardavimą nepilnamečiams?",
+    "Output": "Pagal ANK 1 dalį, bauda yra nuo dviejų šimtų dvidešimt iki trijų šimtų dvidešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už energinių gėrimų pardavimą jaunesniems kaip 18 metų asmenims?",
+    "Output": "Pagal ANK 78 straipsnio 1 dalį, bauda yra nuo šešiasdešimt iki vieno šimto dvidešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už neigiamą poveikį nepilnamečių vystymuisi darančios informacijos skleidimą?",
+    "Output": "Pagal ANK 79 straipsnio 1 dalį, bauda yra nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už privačių asmens duomenų tvarkymo pažeidimus?",
+    "Output": "Pagal ANK 83 straipsnio 1 dalį, bauda asmenims yra nuo vieno šimto penkiasdešimt iki penkių šimtų aštuoniasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už nesilaikymą vaikų mokymosi užtikrinimo prievolės?",
+    "Output": "Pagal ANK 80 straipsnio 1 dalį, bauda yra nuo vieno šimto keturiasdešimt iki trijų šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už Reglamente (ES) 2019/788 nustatytų pritarimo pareiškimų rinkimo procedūrų ir sąlygų pažeidimą?",
+    "Output": "Pagal ANK 89 straipsnio 1 dalį, bauda yra nuo 140 iki 300 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už rinkėjų balsavimo slaptumo pažeidimą rinkimuose ar referendume?",
+    "Output": "Pagal ANK 90 straipsnio 1 dalį, bauda asmenims yra nuo 20 iki 50 eurų, o rinkimų komisijų ar referendumo komisijų nariams - nuo 30 iki 140 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už politinės kampanijos dalyvių registravimo reikalavimų pažeidimą?",
+    "Output": "Pagal ANK 91 straipsnį, bauda yra nuo 140 iki 300 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už nelegalų darbą?",
+    "Output": "Pagal ANK 95 straipsnio 1 dalį, bauda darbdaviui – fiziniam asmeniui yra nuo 2000 iki 5000 eurų, o darbdavio – juridinio asmens vadovui ar kitam atsakingam asmeniui – nuo 1500 iki 5000 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už darbuotojo buvimą apsvaigus darbo vietoje?",
+    "Output": "Pagal ANK 98 straipsnio 1 dalį, bauda darbuotojui ar savarankiškai dirbančiam asmeniui yra nuo 60 iki 290 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda taikoma už asmens, neturinčio teisės dirbti treniruokliu, įdarbinimą?",
+    "Output": "Pagal LR Administracinių nusižengimų kodeksą, darbdaviui fiziniam asmeniui už asmens, neturinčio teisės dirbti fizinio aktyvumo ar aukšto meistriškumo sporto treneriu, įdarbinimą taikomas įspėjimas arba bauda nuo 145 iki 700 eurų, o juridinių asmenų vadovams arba kitiems atsakingiems asmenims - nuo 300 iki 870 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už darbo užmokesčio apskaičiavimo ir mokėjimo tvarkos pažeidimą?",
+    "Output": "Pagal LR Administracinių nusižengimų kodeksą, darbo užmokesčio apskaičiavimo ir mokėjimo tvarkos pažeidimas užtraukia baudą darbdaviams ar kitiems atsakingiems asmenims nuo 300 iki 1450 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už darbuotojų darbo laiko žiniaraščių netinkamą pildymą?",
+    "Output": "Pagal LR Administracinių nusižengimų kodeksą, darbuotojų darbo laiko nežymėjimas darbo laiko apskaitos žiniaraštyje arba žinomai neteisingų duomenų įrašymas užtraukia baudą darbdaviams ar kitiems atsakingiems asmenims nuo 300 iki 1450 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už informacijos apie laikinai dirbantį užsienietį nepateikimą valstybinei darbo inspekcijai?",
+    "Output": "Pagal LR Administracinių nusižengimų kodeksą, informacijos apie atsiųstą laikinai dirbti į Lietuvos Respubliką užsienietį nepateikimas užtraukia baudą darbdaviams ar kitiems atsakingiems asmenims nuo 360 iki 660 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už smulkų vagystę, sukčiavimą, svetimo turto pasisavinimą ar iššvaistymą?",
+    "Output": "Pagal LR Administracinių nusižengimų kodeksą, smulki vagystė, sukčiavimas, svetimo turto pasisavinimas ar iššvaistymas, kai turto vertė neviršija trijų bazinių bausmių ir nuobaudų dydžių, užtraukia baudą nuo 90 iki 400 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už savavališką žemės, miško ar vandens telkinių užėmimą ir naudojimą?",
+    "Output": "Pagal LR Administracinių nusižengimų kodeksą, savavališkas žemės, miško, vandens telkinių užėmimas arba naudojimas užtraukia įspėjimą arba baudą nuo 300 iki 560 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už pakartotinį nacionalinio dokumentų fondo dokumentų praradimą?",
+    "Output": "Pagal ANK 117 str. 4 dalį, bauda asmenims yra nuo 300 iki 580 eurų, o juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo 550 iki 1200 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už atsisakymą perduoti Nacionalinio dokumentų fondo dokumentus?",
+    "Output": "Pagal ANK 118 str., bauda yra nuo 300 iki 600 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už akcininkų teisių pažeidimą?",
+    "Output": "Pagal ANK 119 str. 1 dalį, bauda juridinių asmenų vadovams ar kitiems atsakingiems asmenims yra nuo 480 iki 3000 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už autorių teisių ir gretutinių teisių pažeidimą komerciniais tikslais?",
+    "Output": "Pagal ANK 122 str. 3 dalį, bauda yra nuo 300 iki 3500 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už pramoninės nuosavybės teisių pažeidimą?",
+    "Output": "Pagal ANK 125 str. 1 dalį, bauda yra nuo 300 iki 3000 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už neteisėtą vertimąsi komercine veikla?",
+    "Output": "Pagal ANK 127 str. 1 dalį, bauda yra nuo 390 iki 1100 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už kelionių organizavimo paslaugų teikimo reikalavimų pažeidimą?",
+    "Output": "Pagal ANK 128 str. 1 d., bauda yra nuo šešių šimtų iki aštuonių šimtų penkiasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už apgyvendinimo paslaugų teikimo reikalavimų pažeidimą?",
+    "Output": "Pagal ANK 129 str. 1 d., bauda yra nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už asmens ir turto apsaugos teisės aktų pažeidimą, padarytą apsaugininko be nustatyta tvarka išduoto pažymėjimo?",
+    "Output": "Pagal ANK 130 str. 3 d., bauda yra nuo šešiasdešimt iki devyniasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už alkoholio produktų gamybos ar prekybos licencijavimo tvarkos pažeidimą?",
+    "Output": "Pagal ANK 132 str., bauda įmonių vadovams ir (ar) jų vyriausiesiems finansininkams yra nuo dviejų šimtų iki vieno tūkstančio aštuonių šimtų devyniasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už azartinių lošimų organizavimo tvarkos pažeidimą?",
+    "Output": "Pagal ANK 134 str. 8 d., bauda yra nuo vieno tūkstančio penkių šimtų iki keturių tūkstančių trijų šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už cigarų ir pypkių klubų įrengimo tvarkos pažeidimą?",
+    "Output": "Pagal ANK 138 str. 1 d., bauda yra nuo vieno šimto penkiasdešimt iki aštuonių šimtų penkiasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda yra už prekių, paslaugų, žaliavų kokybės ir saugos reikalavimų pažeidimą?",
+    "Output": "Pagal ANK 139 straipsnio 1 dalį, bauda juridinių asmenų darbuotojams ir asmenims, kurie verčiasi individualia veikla, yra nuo 30 iki 140 eurų, o juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo 300 iki 560 eurų."
+  },
+  {
+    "Instruction": "Kas numatyta už pakartotinį prekių ir paslaugų kokybės reikalavimų pažeidimą?",
+    "Output": "Pagal ANK 139 straipsnio 2 dalį, pakartotinis nusižengimas užtraukia baudą juridinių asmenų darbuotojams ir asmenims, kurie verčiasi individualia veikla, nuo 60 iki 140 eurų, o juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo 550 iki 1200 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda skiriama už metrologijos srities teisės aktų pažeidimą?",
+    "Output": "Pagal ANK 140 straipsnio 1 dalį, bauda asmenims yra nuo 55 iki 550 eurų, o juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo 180 iki 1000 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda skiriama už informacijos apie privatizavimo objektą neteisingą pateikimą ar nepateikimą?",
+    "Output": "Pagal ANK 148 straipsnio 1 dalį, bauda privatizavimo objektų valdytojams bei įmonių vadovams ir kitiems atsakingiems asmenims yra nuo 140 iki 300 eurų."
+  },
+  {
+    "Instruction": "Koks yra juridinių asmenų vadovų ir kitų atsakingų asmenų atsakomybė už naftos produktų pardavimą, neatitinkantį nustatytų kokybės rodiklių?",
+    "Output": "Pagal ANK 139 straipsnio 7 dalį, už privalomų kokybės rodiklių neatitinkančių naftos produktų pardavimą skiriama bauda nuo 150 iki 1150 eurų."
+  },
+  {
+    "Instruction": "Kokia atsakomybė numatyta už Europos Sąjungos ir Lietuvos Respublikos kvalifikuotų elektroninės atpažinties priemonių išdavimo paslaugų teikėjų veiklos pažeidimus?",
+    "Output": "Pagal ANK 1471 straipsnio 1 dalį, tokie pažeidimai užtraukia baudą nuo 150 iki 1150 eurų, o jei dėl to žalos patyrė naudotojai, bauda yra nuo 1100 iki 3000 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už privatizavimo objekto vertinimo tvarkos pažeidimą?",
+    "Output": "Pagal ANK 149 str., bauda yra nuo aštuonių šimtų penkiasdešimt iki vieno tūkstančio penkių šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už komercinės ar ūkinės veiklos tvarkos pažeidimą, kai pažeidimas padarytas pakartotinai?",
+    "Output": "Pagal ANK 150 str. 2 d., bauda yra nuo vieno tūkstančio vieno šimto iki vieno tūkstančio devynių šimtų penkiasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už komercinės ar ūkinės veiklos vykdymą neteisėtai naudojantis įmonės vardu?",
+    "Output": "Pagal ANK 151 str., bauda yra nuo šešių šimtų penkiasdešimt iki trijų tūkstančių devynių šimtų eurų, taip pat privaloma gautų pajamų konfiskavimas."
+  },
+  {
+    "Instruction": "Kokia bauda už mažmeninės prekybos taisyklių pažeidimą, kai pažeidimas padarytas pakartotinai?",
+    "Output": "Pagal ANK 152 str. 2 d., bauda juridinių asmenų darbuotojams yra nuo šešiasdešimt iki vieno šimto dvidešimt eurų, ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno šimto dvidešimt iki dviejų šimtų trisdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už pirkėjų ir klientų apgaudinėjimą sveriant arba nurodant prekių kainas?",
+    "Output": "Pagal ANK 155 str. 1 d., bauda juridinių asmenų darbuotojams yra nuo trisdešimt iki vieno šimto keturiasdešimt eurų, ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo šešiasdešimt iki trijų šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už kasos aparatus aptarnaujančių įmonių specialistų nepranešimą apie neteisėtą kasos aparatų stumdomų skaitiklių rodmenų sumažinimą?",
+    "Output": "Pagal ANK 165 str., 1 dalį, nepranešimas užtraukia baudą nuo trijų šimtų devyniasdešimt iki septynių šimtų trisdešimt eurų."
+  },
+  {
+    "Instruction": "Koks nuobaudos dydis už pakartotinį kasos aparatų eksploatavimą be kontrolinių juostų?",
+    "Output": "Pagal ANK 166 str., 2 dalį, pakartotinis pažeidimas užtraukia baudą nuo trijų tūkstančių devynių šimtų iki penkių tūkstančių penkių šimtų devyniasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už alkoholinių gėrimų pardavimą be licencijos?",
+    "Output": "Pagal ANK 168 str., 7 dalį, bauda yra nuo trijų šimtų devyniasdešimt iki septynių šimtų aštuoniasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda skiriama už alkoholinių gėrimų pardavimą nepilnamečiams?",
+    "Output": "Pagal ANK 170 str., 3 dalį, bauda yra nuo dviejų šimtų dvidešimt iki trijų šimtų dvidešimt eurų."
+  },
+  {
+    "Instruction": "Kiek užtraukia bauda už nesilaikymą prekybos antikvariniais daiktais taisyklių?",
+    "Output": "Pagal ANK 177 str., 1 dalį, bauda asmenims yra nuo vieno šimto keturiasdešimt iki trijų šimtų eurų, o juridinių asmenų vadovams nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už pakartotinį neteisėtą suskystintų naftos dujų panaudojimą kaip variklių degalų?",
+    "Output": "Pagal ANK 176 str., 2 dalį, pakartotinis pažeidimas užtraukia baudą vairuotojams nuo vieno šimto aštuoniasdešimt iki trijų šimtų devyniasdešimt eurų ir atsakingiems asmenims nuo septynių šimtų aštuoniasdešimt iki vieno tūkstančio aštuonių šimtų devyniasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda taikoma už neteisingos informacijos apie atsiskaitomąsias ar einamąsias sąskaitas pateikimą žemės ūkio produkcijos ir maisto produktų pardavėjams?",
+    "Output": "Pagal ANK 181 straipsnį, bauda yra nuo šešių šimtų iki vieno tūkstančio septynių šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už gyvulių skerdenų klasifikavimą, klasifikavimo ir ženklinimo kontrolės teisės aktų pažeidimą?",
+    "Output": "Pagal ANK 181 straipsnį, bauda yra nuo vieno šimto penkiasdešimt iki dviejų šimtų penkiasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už civilinių pirotechnikos priemonių gamybos, importo, eksporto ar laikymo tvarkos pažeidimą?",
+    "Output": "Pagal ANK 182 straipsnį, bauda yra nuo šešiasdešimt iki vieno šimto dvidešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už viešųjų pirkimų įstatymo ir susijusių teisės aktų pažeidimą?",
+    "Output": "Pagal ANK 184 straipsnį, bauda yra nuo dviejų šimtų penkiasdešimt iki trijų tūkstančių eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už turto ir pajamų deklaravimo tvarkos pažeidimą?",
+    "Output": "Pagal ANK 187 straipsnį, bauda yra nuo aštuoniasdešimt iki vieno šimto aštuoniasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda skiriama už mokesčių nesumokėjimą po priminimo?",
+    "Output": "Pagal ANK 1871 straipsnį, bauda yra nuo septynių šimtų iki šešių tūkstančių eurų."
+  },
+  {
+    "Instruction": "Kokia bauda platformų operatoriams už reikalavimų nesilaikymą?",
+    "Output": "Pagal ANK 1883 str., bauda juridinių asmenų vadovams ar kitiems atsakingiems asmenims yra nuo vieno tūkstančio aštuonių šimtų iki trijų tūkstančių aštuonių šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už mokėjimo paslaugų teikėjams nustatytų reikalavimų nesilaikymą?",
+    "Output": "Pagal ANK 1884 str., bauda juridinių asmenų vadovams ar kitiems atsakingiems asmenims yra nuo vieno tūkstančio aštuonių šimtų iki trijų tūkstančių aštuonių šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už vengimą teikti informaciją Valstybinei mokesčių inspekcijai?",
+    "Output": "Pagal ANK 1887 str., bauda asmenims yra nuo vieno šimto iki vieno tūkstančio eurų arba juridinių asmenų vadovams ar kitiems atsakingiems asmenims yra nuo dviejų šimtų iki vieno tūkstančio penkių šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už registravimosi mokesčių mokėtoju tvarkos pažeidimą?",
+    "Output": "Pagal ANK 189 str., bauda yra nuo dviejų šimtų iki trijų šimtų devyniasdešimt eurų, arba įspėjimas."
+  },
+  {
+    "Instruction": "Kokia bauda už neteisėtą informacijos apie mokesčių mokėtoją paskleidimą?",
+    "Output": "Pagal ANK 190 str., bauda yra nuo trijų šimtų devyniasdešimt iki vieno tūkstančio aštuonių šimtų devyniasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už pinigų plovimo ir teroristų finansavimo prevencijos priemonių pažeidimą?",
+    "Output": "Pagal ANK 198 str., bauda asmenims yra nuo penkių šimtų iki dviejų tūkstančių keturių šimtų eurų ir juridinių asmenų vadovams nuo dviejų tūkstančių vieno šimto iki šešių tūkstančių eurų."
+  },
+  {
+    "Instruction": "Kokia bauda gresia už administracinį nusižengimą be LR konkurencijos tarybos leidimo?",
+    "Output": "Pagal ANK, nusižengimas gresia bauda nuo keturių tūkstančių dviejų šimtų iki šešių tūkstančių eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už akcinių bendrovių kapitalo sumažinimo klausimo nesprendimą laiku?",
+    "Output": "Pagal ANK 204 str., už nusižengimą skiriama bauda valdybų nariams ar vadovams nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda taikoma už pakartotinį finansinę apskaitą reglamentuojančių teisės aktų pažeidimą?",
+    "Output": "Pagal ANK 205 str. 2 d., bauda yra nuo vieno šimto aštuoniasdešimt iki septynių šimtų aštuoniasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už skolintų lėšų įmonėse kaupimo tvarkos pažeidimą?",
+    "Output": "Pagal ANK 206 str., bauda yra nuo dviejų šimtų iki trijų tūkstančių eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už atsiskaitymų, informacijos teikimo tvarkos pažeidimą pirmą kartą?",
+    "Output": "Pagal ANK 207 str. 1 d., bauda yra nuo penkių šimtų iki vieno tūkstančio trijų šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už kontrabandos gabenimą, kai vertė neviršija penkių bazinių bausmių ir nuobaudų dydžių?",
+    "Output": "Pagal ANK 208 str. 1 d., bauda yra nuo dviejų šimtų iki vieno tūkstančio vieno šimto dvidešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už neteisėtai įsigytų prekių laikymą, kai jų vertė viršija dešimt, bet neviršija penkiasdešimt bazinių bausmių ir nuobaudų dydžių?",
+    "Output": "Pagal ANK straipsnį, už neteisėtai įsigytų prekių laikymą, kai jų vertė viršija dešimt, bet neviršija penkiasdešimt bazinių bausmių ir nuobaudų dydžių, skiriama bauda nuo dviejų tūkstančių iki penkių tūkstančių penkių šimtų devyniasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už turgaviečių stebėsenos nevykdymą?",
+    "Output": "Pagal ANK 2091 straipsnį, turgaviečių stebėsenos nevykdymas užtraukia baudą nuo trijų šimtų devyniasdešimt iki vieno tūkstančio vieno šimto dvidešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už vykimą nesilaikant muitinės nurodyto maršruto?",
+    "Output": "Pagal ANK 210 straipsnio 1 dalį, už vykimą nesilaikant muitinės nurodyto maršruto baudžiama bauda nuo penkių šimtų iki vieno tūkstančio eurų."
+  },
+  {
+    "Instruction": "Kokia bauda skiriama už muitinės uždėtų plombų padirbimą ar nuplėšimą?",
+    "Output": "Pagal ANK 216 straipsnį, už muitinės uždėtų arba pripažįstamų plombų padirbimą, nuplėšimą, sugadinimą ar praradimą skiriama bauda nuo dviejų šimtų iki vieno tūkstančio vieno šimto eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už įvežimo arba išvežimo bendrosios deklaracijos pateikimą pažeidžiant reikalavimus?",
+    "Output": "Pagal ANK 217 straipsnį, už įvežimo arba išvežimo bendrosios deklaracijos pateikimą pažeidžiant reikalavimus skiriama bauda nuo trisdešimt iki šešiasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už prekių gabenimą be dokumentų, kai jų vertė viršija penkis, bet neviršija penkiolika bazinių bausmių dydžių?",
+    "Output": "Pagal ANK 214 straipsnį, prekių gabenimas be dokumentų, kai jų vertė viršija penkis, bet neviršija penkiolika bazinių bausmių dydžių, užtraukia baudą nuo vieno šimto devyniasdešimt iki penkių šimtų aštuoniasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda numatyta už lengvatinę prekių kilmę reglamentuojančių susitarimų reikalavimų nesilaikymą?",
+    "Output": "Pagal ANK 2172 str. 1 dalį, bauda yra nuo keturiasdešimt iki vieno šimto eurų."
+  },
+  {
+    "Instruction": "Kokia bauda skiriama pakartotinai neįvykdžius lengvatinės prekių kilmės susitarimų reikalavimų?",
+    "Output": "Pagal ANK 2172 str. 2 dalį, bauda yra nuo vieno šimto iki vieno tūkstančio eurų."
+  },
+  {
+    "Instruction": "Kokia bauda numatyta už grynųjų pinigų deklaravimo reikalavimų nesilaikymą kertant ES vidaus sienas?",
+    "Output": "Pagal ANK 218 str. 1 dalį, bauda yra nuo trijų šimtų devyniasdešimt iki vieno tūkstančio vieno šimto septyniasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda taikoma už pakartotinį grynųjų pinigų deklaravimo taisyklių pažeidimą?",
+    "Output": "Pagal ANK 218 str. 2 dalį, bauda yra nuo vieno tūkstančio keturiasdešimt iki trijų tūkstančių devynių šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda numatyta už į euro monetas panašių medalių gamybos ir pardavimo tvarkos pažeidimą?",
+    "Output": "Pagal ANK 219 str. 1 dalį, bauda yra nuo trijų šimtų iki vieno tūkstančio keturių šimtų penkiasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda skiriama už pakartotinį statistinių duomenų pateikimo tvarkos pažeidimą?",
+    "Output": "Pagal ANK 221 str. 2 dalį, bauda yra nuo aštuonių šimtų iki vieno tūkstančio aštuonių šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už ginklo, šaudmenų nešiojimą neblaiviam asmeniui?",
+    "Output": "Pagal ANK 3 straipsnį, bauda yra nuo trijų šimtų iki šešių šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už ginklų registravimo terminų pažeidimą?",
+    "Output": "Pagal ANK 228 straipsnį, bauda yra įspėjimas arba nuo dvidešimt iki trisdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia yra bauda už teisėtai įgytų ginklų, šaudmenų laikymo taisyklių pažeidimą pakartotinai?",
+    "Output": "Pagal ANK 229 straipsnio 3 dalį, bauda yra nuo devyniasdešimt iki vieno šimto aštuoniasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už sprogmenų saugos reikalavimų pažeidimą?",
+    "Output": "Pagal ANK 234 straipsnio 1 dalį, bauda yra nuo vieno šimto penkiasdešimt iki penkių šimtų devyniasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už ūkinės veiklos vykdymą nesilaikant aplinkos apsaugos reikalavimų antrą kartą?",
+    "Output": "Pagal ANK 235 straipsnio 2 dalį, bauda asmenims yra nuo vieno šimto keturiasdešimt iki trijų šimtų eurų, juridinių asmenų vadovams – nuo trijų šimtų iki vieno tūkstančio keturių šimtų penkiasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už ūkio subjekto aplinkos stebėsenos ataskaitų nepateikimą laiku?",
+    "Output": "Pagal ANK 236 straipsnį, bauda yra nuo vieno šimto dvidešimt iki dviejų šimtų dvidešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už aplinkos radiacinės saugos norminių teisės aktų nevykdymą?",
+    "Output": "Pagal ANK 240 straipsnį, bauda asmenims yra nuo šešiasdešimt iki vieno šimto keturiasdešimt eurų, juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno šimto penkiasdešimt iki trijų šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už informacijos apie aplinkos būklę nepateikimą arba iškraipymą?",
+    "Output": "Pagal ANK 239 straipsnį, bauda juridinių asmenų vadovams ar kitiems atsakingiems asmenims yra nuo trisdešimt iki šešiasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už teršalų išmetimo į aplinkos orą reglamentuojančių teisės aktų pažeidimą?",
+    "Output": "Pagal ANK 242 straipsnį, bauda asmenims yra nuo šešiasdešimt iki trijų šimtų eurų, juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno šimto septyniasdešimt iki vieno tūkstančio vieno šimto septyniasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už neteisėtą Europos Sąjungos ekologinio ženklo naudojimą?",
+    "Output": "Pagal ANK 237 straipsnį, bauda yra nuo trijų šimtų iki aštuonių šimtų šešiasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už informacijos apie šiltnamio efektą sukeliančias dujas išmetančio įrenginio veiklos ir pajėgumų pokyčius nepateikimą laiku?",
+    "Output": "Pagal ANK 243 str. 1 d., bauda yra nuo vieno šimto iki trijų šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už veiklos vykdymą neturint nustatyta tvarka išduoto leidimo išmesti į atmosferą šiltnamio efektą sukeliančias dujas?",
+    "Output": "Pagal ANK 243 str. 4 d., bauda yra nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda asmenims už aplinkos teršimą nuotekomis, kai išleidžiama viršijant leidime nustatytas ribines vertes?",
+    "Output": "Pagal ANK 246 str. 1 d., bauda asmenims yra nuo šešiasdešimt iki trijų šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už kuro ir energijos būvio ciklo metu išmetamų šiltnamio efektą sukeliančių dujų kiekio mažinimą reglamentuojančių teisės aktų nevykdymą?",
+    "Output": "Pagal ANK 2431 str. 2 d., bauda yra nuo vieno tūkstančio iki trijų tūkstančių eurų."
+  },
+  {
+    "Instruction": "Kokia bauda juridinių asmenų vadovams už aplinkos teršimą radioaktyviosiomis medžiagomis?",
+    "Output": "Pagal ANK 245 str. 1 d., bauda juridinių asmenų vadovams yra nuo penkių šimtų penkiasdešimt iki vieno tūkstančio dviejų šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už aplinkos užteršimą vienu šimtu kubinių decimetrų ir didesniu pavojingų atliekų kiekiu?",
+    "Output": "Pagal ANK 247 str. 7 d., bauda yra nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už atliekų tvarkymo dokumentų saugojimo reikalavimų pažeidimą?",
+    "Output": "Pagal ANK 29 str., bauda yra nuo šešiasdešimt iki dviejų šimtų trisdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už pavojingų atliekų maišymą nesilaikant nustatytų reikalavimų?",
+    "Output": "Pagal ANK 36 str., bauda asmenims yra nuo devyniasdešimt iki dviejų šimtų trisdešimt eurų, o juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno šimto keturiasdešimt iki keturių šimtų keturiasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už vienkartinių plastikinių stalo įrankių pateikimą Lietuvos Respublikos rinkai?",
+    "Output": "Pagal ANK 44 str., bauda juridinių asmenų vadovams ar kitiems atsakingiems asmenims yra nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už atliekų susidarymo ar tvarkymo apskaitos netvarkymą ar netinkamą tvarkymą?",
+    "Output": "Pagal ANK 37 str., užtraukia įspėjimą arba baudą nuo dviejų šimtų trisdešimt iki keturių šimtų trisdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už atliekų sutvarkymą patvirtinančio dokumento neteisėtą išrašymą?",
+    "Output": "Pagal ANK 41 str., bauda yra nuo penkių šimtų iki trijų tūkstančių eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už iš aerobiškai skaidaus plastiko pagamintų gaminių pateikimą Lietuvos Respublikos rinkai?",
+    "Output": "Pagal ANK 42 str., bauda juridinių asmenų vadovams ar kitiems atsakingiems asmenims yra nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už vienkartinių plastikinių lėkščių pateikimą Lietuvos Respublikos rinkai?",
+    "Output": "Pagal ANK 45 str., bauda juridinių asmenų vadovams ar kitiems atsakingiems asmenims yra nuo 1 400 iki 3 000 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už biologinių atliekų tvarkymo reikalavimų nevykdymą maisto tvarkymo subjektuose?",
+    "Output": "Pagal ANK 2471 str. 1 d., bauda asmenims yra nuo 60 iki 260 eurų, o juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo 260 iki 1 140 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už pakuočių apskaitos netvarkymą?",
+    "Output": "Pagal ANK 248 str. 51 d., bauda juridinių asmenų vadovams ar kitiems atsakingiems asmenims yra nuo 900 iki 1 600 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už tabako gaminių su filtrais, nepateikus jų apskaitos ataskaitų laiku?",
+    "Output": "Pagal ANK 2481 str. 2 d., bauda juridinių asmenų vadovams ar kitiems atsakingiems asmenims yra nuo 120 iki 220 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už drėgnųjų servetėlių atliekų tvarkymo reikalavimų nevykdymą?",
+    "Output": "Pagal ANK 2482 str. 1 d., bauda juridinių asmenų vadovams ar kitiems atsakingiems asmenims yra nuo 150 iki 1 450 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už žvejybos įrankių, kurių sudėtyje yra plastiko, apskaitos ataskaitų nepateikimą?",
+    "Output": "Pagal ANK 2 dalį, bauda yra nuo 120 iki 220 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už klaidingų duomenų pateikimą žvejybos įrankių apskaitos ataskaitose?",
+    "Output": "Pagal ANK 3 dalį, bauda yra nuo 450 iki 850 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už žvejybos įrankių, kurių sudėtyje yra plastiko, apskaitos netvarkymą?",
+    "Output": "Pagal ANK 5 dalį, bauda yra nuo 230 iki 430 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už nedalyvavimą žvejybos įrankių atliekų tvarkymo sistemoje?",
+    "Output": "Pagal ANK 6 dalį, bauda yra nuo 2700 iki 6000 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už elektros ir elektroninės įrangos apskaitos ataskaitos nepateikimą?",
+    "Output": "Pagal ANK 249 straipsnio 1 dalį, bauda yra nuo 120 iki 220 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už neteisingų duomenų pateikimą elektros ir elektroninės įrangos apskaitoje?",
+    "Output": "Pagal ANK 6 dalį, bauda yra nuo 450 iki 850 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už pavojingų atliekų išvežimą ar eksportą be leidimo?",
+    "Output": "Pagal LR Administracinių nusižengimų kodeksą, bauda yra nuo šešių šimtų iki vieno tūkstančio septynių šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už laivo perdirbimo plano nepateikimą?",
+    "Output": "Pagal LR Administracinių nusižengimų kodeksą, bauda yra nuo penkiasdešimt iki vieno šimto eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už baterijų ir akumuliatorių atliekų organizavimo pareigos nevykdymą?",
+    "Output": "Pagal LR Administracinių nusižengimų kodeksą, bauda yra nuo dviejų tūkstančių septynių šimtų iki šešių tūkstančių eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už neteisingų duomenų pateikimą transporto priemonių apskaitoje?",
+    "Output": "Pagal LR Administracinių nusižengimų kodeksą, bauda yra nuo keturių šimtų penkiasdešimt iki aštuonių šimtų penkiasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už didelių pramoninių avarijų prevencijos reikalavimų pažeidimą?",
+    "Output": "Pagal LR Administracinių nusižengimų kodeksą, bauda veiklos vykdytojams yra nuo septyniasdešimt penkių iki vieno šimto penkiasdešimt eurų, o juridinių asmenų vadovams – nuo vieno šimto penkiasdešimt iki trijų šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už nusižengimo pakartojimą pagal 256 straipsnį?",
+    "Output": "Pagal 256 straipsnio 2 dalį, bauda asmenims svyruoja nuo trijų šimtų dvidešimt iki šešių šimtų penkiasdešimt eurų, o juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo šešių šimtų dvidešimt iki vieno tūkstančio eurų."
+  },
+  {
+    "Instruction": "Kokios baudos numatytos už ūkinės veiklos vykdymą paviršiniuose vandens telkiniuose pažeidžiant specialias žemės naudojimo sąlygas?",
+    "Output": "Pagal 256 straipsnio 7 dalį, bauda asmenims svyruoja nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų, o juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo šešių šimtų iki vieno tūkstančio keturių šimtų penkiasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už dirvožemio apsaugos nuo erozijos priemonių nevykdymą?",
+    "Output": "Pagal 258 straipsnį, bauda asmenims svyruoja nuo keturiolikos iki trisdešimt eurų, o juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo trisdešimt iki šešiasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už mėšlo ir srutų tvarkymo taisyklių pažeidimą?",
+    "Output": "Pagal 260 straipsnio 1 dalį, bauda asmenims svyruoja nuo devyniasdešimt iki dviejų šimtų trisdešimt eurų, o juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo dviejų šimtų trisdešimt iki keturių šimtų trisdešimt eurų."
+  },
+  {
+    "Instruction": "Kokie nusižengimai numatyti už žemės sklypų naudojimą ne pagal pagrindinę paskirtį?",
+    "Output": "Pagal 261 straipsnio 1 dalį, žemės sklypų naudojimas ne pagal nustatytą pagrindinę paskirtį užtraukia baudą nuo vieno šimto keturiasdešimt iki trijų šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už žemės gelmių išteklių apskaitos reikalavimų pažeidimą?",
+    "Output": "Užtraukia baudą asmenims nuo 70 iki 150 eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo 100 iki 200 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už geoterminių gręžinių projektavimo reikalavimų pažeidimą?",
+    "Output": "Užtraukia baudą asmenims nuo 100 iki 200 eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo 150 iki 300 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už pažeistos žemės rekultivavimo nesilaikymą iki 1 ha?",
+    "Output": "Užtraukia baudą nuo 450 iki 850 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už neteisėtą nemetalinių iškasenų naudojimą iki 20 kubinių metrų?",
+    "Output": "Užtraukia baudą nuo 250 iki 400 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už požeminio vandens naudojimą be leidimo?",
+    "Output": "Užtraukia baudą asmenims nuo 200 iki 700 eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo 500 iki 1500 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už Kuršių marių ir Baltijos jūros pakrantės apsaugos zonos pažeidimą?",
+    "Output": "Užtraukia baudą nuo 150 iki 1450 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už reikiamų įrenginių, esančių jūrų uostuose, neįsigijimą, kad būtų galima priimti ir apdoroti kenksmingų medžiagų likučius?",
+    "Output": "Pagal ANK 187 str., bauda juridinių asmenų vadovams ar kitiems atsakingiems asmenims yra nuo penkių šimtų iki trijų tūkstančių eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už laivo valdytojo reikalavimų nesilaikymą, kai plaukiojama Lietuvos teritorinėje jūroje naudojant kurą su didesniu sieros kiekiu nei leidžiama?",
+    "Output": "Pagal ANK Nr. XIII-1311, 15 str., bauda laivų kapitonams ir valdytojams fiziniams asmenims yra nuo trijų šimtų iki vieno tūkstančio vieno šimto eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už laivų balastinių vandenų išleidimą pažeidžiant nustatytus reikalavimus?",
+    "Output": "Pagal ANK 188 str., bauda juridinių asmenų vadovams ar kitiems atsakingiems asmenims yra nuo vieno tūkstančio dviejų šimtų iki šešių tūkstančių eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už mažųjų laivų naudojimo vidaus vandenyse tvarkos pažeidimą?",
+    "Output": "Pagal ANK 266 str., bauda yra nuo trisdešimt iki šešiasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už aplinkosaugos sąlygų pažeidimą plaukiojant vandens telkiniuose plaukiojimo priemonėmis?",
+    "Output": "Pagal ANK 267 str., bauda yra nuo vieno šimto penkiasdešimt iki trijų šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už miško naudojimą be nustatyta tvarka gauto leidimo?",
+    "Output": "Pagal ANK 270 str., bauda yra nuo septyniasdešimt iki vieno šimto keturiasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda juridiniams asmenims už apvaliosios medienos matavimo, apskaitos ir ženklinimo tvarkos pažeidimą?",
+    "Output": "Pagal ANK 271 str. 1 dalį, bauda yra nuo dvidešimt iki keturiasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už miško kirtimo taisyklių pažeidimą draudžiamu metu?",
+    "Output": "Pagal ANK 271 str. 7 dalį, bauda asmenims yra nuo trijų šimtų iki šešių šimtų eurų, o juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo penkių šimtų iki vieno tūkstančio eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už nepateisinamą miško dauginamosios medžiagos nuostatų pažeidimą?",
+    "Output": "Pagal ANK 276 str. 4 dalį, bauda asmenims yra nuo devyniasdešimt iki vieno šimto aštuoniasdešimt eurų, o juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno šimto dvidešimt iki dviejų šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už nukirstų medžių pasisavinimą?",
+    "Output": "Pagal ANK 277 str. 2 dalį, bauda asmenims yra nuo septyniasdešimt iki vieno šimto keturiasdešimt eurų, o juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno šimto penkiasdešimt iki trijų šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už priešgaisrinės miškų apsaugos reikalavimų pažeidimą?",
+    "Output": "Pagal ANK 279 str. 1 dalį, bauda asmenims yra nuo trisdešimt iki penkiasdešimt eurų, o juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo devyniasdešimt iki vieno šimto septyniasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už miško naikinimą jį padegant?",
+    "Output": "Pagal LR Administracinių nusižengimų kodeksą, bauda už miško naikinimą jį padegant arba kitokius priešgaisrinės miškų apsaugos reikalavimų pažeidimus siekia nuo 560 iki 1200 eurų asmenims ir nuo 1200 iki 2300 eurų juridinių asmenų vadovams arba kitiems atsakingiems asmenims."
+  },
+  {
+    "Instruction": "Kas yra laikomas miško sanitarinės apsaugos reikalavimų pažeidimu ir kokia už tai skiriama bauda?",
+    "Output": "Pagal LR Administracinių nusižengimų kodeksą, miško sanitarinės apsaugos reikalavimų pažeidimas užtraukia įspėjimą arba baudą asmenims nuo 14 iki 30 eurų, ir nuo 30 iki 60 eurų juridinių asmenų vadovams arba kitiems atsakingiems asmenims."
+  },
+  {
+    "Instruction": "Kokia bauda skiriama už neteisėtą krūmų naikinimą, kurie priskiriami saugotiniems želdiniams?",
+    "Output": "Pagal LR Administracinių nusižengimų kodeksą, neteisėtas saugotinų krūmų naikinimas užtraukia baudą asmenims nuo 60 iki 200 eurų ir nuo 80 iki 300 eurų juridinių asmenų vadovams arba kitiems atsakingiems asmenims."
+  },
+  {
+    "Instruction": "Kaip baudžiama už neteisėtą važiavimą per žolinę dangą ar miško paklotę motorinėmis transporto priemonėmis?",
+    "Output": "Pagal LR Administracinių nusižengimų kodeksą, neteisėtas važiavimas per žolinę dangą ar miško paklotę užtraukia įspėjimą arba baudą nuo 20 iki 140 eurų. Jei žolinė danga ar miško paklotė buvo sužalota arba sunaikinta, bauda padidėja nuo 140 iki 300 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda skiriama už laukinių augalų ar grybų tyčinę introdukciją pažeidžiant teisės aktus?",
+    "Output": "Pagal LR Administracinių nusižengimų kodeksą, tyčinė laukinių augalų ar grybų introdukcija užtraukia baudą asmenims nuo 200 iki 700 eurų ir juridinių asmenų vadovams arba kitiems atsakingiems asmenims – nuo 500 iki 1000 eurų."
+  },
+  {
+    "Instruction": "Kokios yra sankcijos už saugomų rūšių augalų ar grybų naudojimą pažeidžiant teisės aktus?",
+    "Output": "Pagal LR Administracinių nusižengimų kodeksą, saugomų rūšių augalų ar grybų naudojimas pažeidžiant teisės aktus užtraukia baudą asmenims nuo 250 iki 1000 eurų ir juridinių asmenų vadovams arba kitiems atsakingiems asmenims – nuo 300 iki 1500 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už saugomų rūšių gyvūnų gaudymą ar žalojimą pažeidžiant teisės aktus?",
+    "Output": "Pagal ANK 9 dalį, bauda asmenims yra nuo dviejų šimtų iki aštuonių šimtų eurų, o juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo keturių šimtų iki dviejų tūkstančių šešių šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už chuliganišką vairavimą?",
+    "Output": "Šis tekstas nėra susijęs su chuliganišku vairavimu."
+  },
+  {
+    "Instruction": "Kokia bauda už priešgaisrinių priemonių nesiėmimą pastebėjus gaisrą durpyne?",
+    "Output": "Pagal ANK 288 straipsnio 1 dalį, bauda durpyno savininkams, naudotojams, valdytojams ar darbuotojams yra nuo šešiasdešimt iki vieno šimto dvidešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už prekybą saugomomis rūšimis pažeidžiant teisės aktus neturint patvirtinančių dokumentų?",
+    "Output": "Pagal ANK 23 dalį, bauda asmenims yra nuo penkių šimtų iki trijų tūkstančių aštuonių šimtų eurų, o juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo aštuonių šimtų penkiasdešimt iki penkių tūkstančių eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už neblaivumą medžioklėje (0,41 - 1,5 promilės)?",
+    "Output": "Pagal ANK 290 straipsnio 9 dalį, bauda yra nuo dviejų šimtų iki šešių šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už natūralių pievų ir ganyklų naudojimo sąlygų pažeidimą?",
+    "Output": "Pagal ANK 287 straipsnį, bauda yra nuo trisdešimt iki penkiasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už mėgėjų žvejybos taisyklių pažeidimą?",
+    "Output": "Pagal ANK 291 str. 1 d., bauda yra nuo trisdešimt iki devyniasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už limito viršijimą žvejybos plote?",
+    "Output": "Pagal ANK 291 str. 3 d., bauda yra nuo vieno šimto dvidešimt iki dviejų šimtų dvidešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už mėgėjų žvejybos taisyklių pažeidimą, naudojant draudžiamus įrankius?",
+    "Output": "Pagal ANK 291 str. 4 d., bauda yra nuo šešių šimtų iki vieno tūkstančio penkių šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už neteisėtą žvejybos įrankių gaminimą?",
+    "Output": "Pagal ANK 291 str. 7 d., bauda yra nuo trijų šimtų iki penkių šimtų aštuoniasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už žuvininkystės duomenų neteikimą?",
+    "Output": "Pagal ANK 294 str. 2 d., bauda yra nuo dvidešimt iki šešių šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už verslinės žvejybos vidaus vandenyse tvarkos šiurkštų pažeidimą?",
+    "Output": "Pagal ANK 295 str. 2 d., bauda yra nuo aštuonių šimtų penkiasdešimt iki vieno tūkstančio septynių šimtų penkiasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už pakartotinį administracinį nusižengimą reglamentuojamą Reglamento (EB) Nr. 1224/2009 90 straipsnio?",
+    "Output": "Pagal ANK 420 str., už pakartotinį nusižengimą žvejybos laivų kapitonams skiriama bauda nuo penkių tūkstančių iki šešių tūkstančių eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už Lietuvos Respublikos žūklės laivo varomojo variklio galios sertifikavimo nuostatų pažeidimą?",
+    "Output": "Pagal ANK 302 str., už tokį pažeidimą skiriamas įspėjimas arba bauda nuo 150 iki 300 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už laukinių gyvūnų laikymą pažeidžiant aplinkos ministro tvirtinamose taisyklėse nustatytus reikalavimus neturint teisėtą įsigijimą patvirtinančių dokumentų?",
+    "Output": "Pagal ANK 303 str., bauda asmenims skiriama nuo 500 iki 2050 eurų, o juridinių asmenų vadovams – nuo 650 iki 3500 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už genetinių išteklių naudojimo reikalavimų pažeidimą?",
+    "Output": "Pagal ANK 3041 str., už tokį pažeidimą skiriama bauda nuo 100 iki 400 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už invazinių rūšių naikinimo priemonių naudojimą pažeidžiant teisės aktus?",
+    "Output": "Pagal ANK 3042 str., skiriamas įspėjimas arba bauda asmenims nuo 50 iki 1000 eurų, o juridiniams asmenims – nuo 90 iki 1500 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už pakartotinį invazinių rūšių pateikimą rinkai?",
+    "Output": "Pagal ANK 3042 str., pakartotinis pažeidimas užtraukia baudą asmenims nuo 400 iki 1500 eurų, o juridiniams asmenims – nuo 800 iki 1500 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už geneticinių sklypų ar biosferos poligonų apsaugos režimo pažeidimą?",
+    "Output": "Pagal ANK 305 str. 1 d., bauda asmenims yra nuo dvidešimt iki penkiasdešimt eurų, o juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo trisdešimt iki vieno šimto dešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už valstybinių parkų ar biosferos rezervatų apsaugos režimo pažeidimą su žalos aplinkai padarymu?",
+    "Output": "Pagal ANK 305 str. 5 d., bauda asmenims yra nuo šešiasdešimt iki vieno šimto septyniasdešimt eurų, o juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno šimto dešimt iki trijų šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už transporto priemonių eksploatavimą su neveikiančia dujų neutralizavimo sistema?",
+    "Output": "Pagal ANK 307 str. 2 d., bauda asmenims yra nuo vieno šimto iki trijų šimtų eurų, o juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo trijų šimtų iki penkių šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už cheminių medžiagų tvarkymo reikalavimų pažeidimą, jeigu tai sukėlė žalą aplinkai?",
+    "Output": "Pagal ANK 308 str. 2 d., bauda su cheminių medžiagų tvarkymu susijusia veikla užsiimantiems asmenims ir juridinių asmenų vadovams arba kitiems atsakingiems asmenims yra nuo penkių šimtų iki trijų tūkstančių eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už neregistruotų cheminių medžiagų tiekimo rinkai reikalavimų pažeidimą?",
+    "Output": "Pagal ANK 308 str. 14 d., bauda su cheminių medžiagų tvarkymu susijusia veikla užsiimantiems asmenims ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims yra nuo trijų šimtų iki vieno tūkstančio septynių šimtų penkiasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už cheminių medžiagų, sprogmenų ar mišinių klasifikavimo bei ženklinimo reguliavimo pažeidimą?",
+    "Output": "Pagal ANK 15 str., bauda yra nuo 340 iki 4,300 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už Reglamente (ES) 2017/852 reikalavimų odontologinėse įstaigose dėl amalgamos separatoriaus nesilaikymą?",
+    "Output": "Pagal ANK 3081 str. 1 dalį, bauda yra nuo 200 iki 400 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už draudimo importuoti gyvsidabrio mišinius ir gyvsidabrio junginius pažeidimą?",
+    "Output": "Pagal ANK 3081 str. 8 dalį, bauda yra nuo 1,500 iki 4,300 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už fluorintų šiltnamio efektą sukeliančių dujų išleidimą į atmosferą?",
+    "Output": "Pagal ANK 309 str. 6 dalį, bauda yra nuo 1,000 iki 4,000 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už uždraustų pateikti rinkai fluorintų šiltnamio efektą sukeliančių dujų panaudojimą?",
+    "Output": "Pagal ANK 309 str. 9 dalį, bauda yra nuo 10 iki 30 eurų už kiekvieną anglies dioksido ekvivalento toną, bet ne didesnė negu 6,000 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už chuliganišką vairavimą?",
+    "Output": "Pagal ANK 420 str., bauda yra ..."
+  },
+  {
+    "Instruction": "Kokia bauda už ozono sluoksnį ardančių medžiagų išmetimą į aplinką?",
+    "Output": "Pagal ANK straipsnio 2 dalį, bauda asmenims yra nuo 150 iki 300 eurų, o juridinių asmenų vadovams arba kitiems atsakingiems asmenims nuo 300 iki 450 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už ozono sluoksnį ardančių medžiagų ženklinimo reikalavimų pažeidimą?",
+    "Output": "Pagal ANK straipsnio 5 dalį, bauda yra nuo 60 iki 230 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už genetiškai modifikuotų organizmų pakavimo reikalavimų pažeidimą?",
+    "Output": "Pagal ANK 312 straipsnio 1 dalį, bauda yra nuo 200 iki 500 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už kultūrinę vertę turinčių daiktų paieškos reikalavimų pažeidimą?",
+    "Output": "Pagal ANK 314 straipsnio 5 dalį, bauda asmenims yra nuo 300 iki 560 eurų, o juridinių asmenų vadovams arba kitiems atsakingiems asmenims nuo 560 iki 1200 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už aplinkos apsaugos priemonių neįgyvendinimą?",
+    "Output": "Pagal ANK 315 straipsnio 1 dalį, bauda yra nuo 60 iki 140 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už aplinkos apsaugos valstybinės priežiūros pareigūno duotame privalomajame nurodyme nustatytų reikalavimų neįvykdymą?",
+    "Output": "Pagal ANK 317 str., bauda asmenims nuo 350 iki 800 eurų, juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo 500 iki 980 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už aplinkai kenksmingos veiklos nesustabdymą pagal privalomąjį nurodymą?",
+    "Output": "Pagal ANK 318 str., bauda asmenims nuo 500 iki 2,450 eurų, juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo 900 iki 4,000 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už savivaldybės administracijos direktoriaus sprendimo apriboti eismą nevykdymą?",
+    "Output": "Pagal ANK 319 str., bauda juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo 30 iki 120 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už patekimas į branduolinės energetikos objekto aikštelę neturint tam teisės?",
+    "Output": "Pagal ANK 321 str., bauda nuo 150 iki 300 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už netinkamą energijos išteklių ar energijos tiekimo sistemų rezervinių atsargų tvarką padarius didelę žalą valstybės interesams?",
+    "Output": "Pagal ANK 331 str., bauda juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo 3,000 iki 6,000 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už netinkamą eksploatavimą nepranešant vandens tiekėjui?",
+    "Output": "Už netinkamą eksploatavimą nepranešant vandens tiekėjui, asmenims gresia įspėjimas arba bauda nuo trisdešimt iki šešiasdešimt eurų, o juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo septyniasdešimt iki vieno šimto keturiasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už savavališką prijungimą prie vandens tiekimo tinklų?",
+    "Output": "Savavališkas prijungimas prie vandens tiekimo tinklų užtraukia įspėjimą arba baudą asmenims nuo trisdešimt iki šešiasdešimt eurų, o juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo septyniasdešimt iki vieno šimto keturiasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia nuobauda už klaidingų vandens apskaitos duomenų pateikimą?",
+    "Output": "Už klaidingų vandens apskaitos duomenų pateikimą gresia įspėjimas arba bauda asmenims nuo šešiasdešimt iki vieno šimto dvidešimt eurų, o juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo devyniasdešimt iki vieno šimto septyniasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už nesutvarkytą žemės ūkio paskirties žemę?",
+    "Output": "Nesutvarkius žemės ūkio paskirties žemės gresia įspėjimas arba bauda nuo septyniasdešimt iki vieno šimto keturiasdešimt eurų. Pakartotiniam nusižengimui gresia bauda nuo vieno šimto keturiasdešimt iki trijų šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už fitosanitarijos reikalavimų pažeidimą?",
+    "Output": "Už fitosanitarijos reikalavimų pažeidimą asmenims gresia įspėjimas arba bauda nuo trisdešimt iki trijų šimtų eurų, o juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo šešiasdešimt iki vieno tūkstančio keturių šimtų šešiasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už neteisėtą aguonų auginimą?",
+    "Output": "Neteisėtas opijinių aguonų auginimas užtraukia baudą nuo trisdešimt iki vieno šimto penkiasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už augalų apsaugos produktų, tapačių registruotiems, reklamavimo reikalavimų pažeidimą?",
+    "Output": "Pagal ANK 3421 straipsnio 5 dalį, bauda yra nuo septynių šimtų iki devynių šimtų eurų fiziniams asmenims ir nuo aštuonių šimtų iki vieno tūkstančio eurų juridinių asmenų vadovams ar kitiems atsakingiems asmenims."
+  },
+  {
+    "Instruction": "Kokia bauda už neregistruotų augalų apsaugos produktų tiekimą rinkai?",
+    "Output": "Pagal ANK 3422 straipsnio 9 dalį, bauda yra nuo dviejų tūkstančių vieno šimto iki dviejų tūkstančių penkių šimtų eurų fiziniams asmenims ir nuo dviejų tūkstančių trijų šimtų iki dviejų tūkstančių septynių šimtų eurų juridinių asmenų vadovams ar kitiems atsakingiems asmenims."
+  },
+  {
+    "Instruction": "Kokia bauda už falsifikuotų augalų apsaugos produktų naudojimą?",
+    "Output": "Pagal ANK 3424 straipsnio 3 dalį, bauda yra nuo vieno tūkstančio aštuonių šimtų iki dviejų tūkstančių dviejų šimtų eurų fiziniams asmenims ir nuo dviejų tūkstančių iki dviejų tūkstančių keturių šimtų eurų juridinių asmenų vadovams ar kitiems atsakingiems asmenims."
+  },
+  {
+    "Instruction": "Kokia bauda už falsifikuotų augalų apsaugos produktų įvežimą į Lietuvos Respubliką?",
+    "Output": "Pagal ANK 3424 straipsnio 7 dalį, bauda yra nuo dviejų tūkstančių šešių šimtų iki trijų tūkstančių eurų fiziniams asmenims ir nuo dviejų tūkstančių aštuonių šimtų iki trijų tūkstančių dviejų šimtų eurų juridinių asmenų vadovams ar kitiems atsakingiems asmenims."
+  },
+  {
+    "Instruction": "Kokia bauda už augalų apsaugos produktų, netapačių registruotiems, reklamavimą?",
+    "Output": "Pagal ANK 3423 straipsnio 5 dalį, bauda yra nuo vieno tūkstančio aštuonių šimtų iki dviejų tūkstančių dviejų šimtų eurų fiziniams asmenims ir nuo dviejų tūkstančių iki dviejų tūkstančių keturių šimtų eurų juridinių asmenų vadovams ar kitiems atsakingiems asmenims."
+  },
+  {
+    "Instruction": "Kokia bauda už taisyklių, susijusių su augalų apsaugos produktų neregistruotų Lietuvoje tvarkymu, nesilaikymą?",
+    "Output": "Pagal ANK 261 str., bauda asmenims yra nuo 1500 iki 2500 eurų, o juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo 2500 iki 3500 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už augalų apsaugos produktų platinimą be reikiamo leidimo?",
+    "Output": "Pagal ANK 3426 str., bauda asmenims yra nuo 300 iki 600 eurų, o juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo 400 iki 700 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už integruotos kenksmingųjų organizmų kontrolės principų pažeidimą?",
+    "Output": "Pagal ANK 3427 str., bauda asmenims yra nuo 30 iki 100 eurų, o juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo 60 iki 150 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už augalų dauginamosios medžiagos tiekimą rinkai neturint tiekėjo pažymėjimo?",
+    "Output": "Pagal ANK 3429 str., bauda asmenims yra nuo 40 iki 150 eurų, o juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo 300 iki 560 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už Lietuvos Respublikos veterinarijos įstatymo reikalavimų pažeidimą?",
+    "Output": "Pagal ANK 343 str., bauda asmenims yra nuo 30 iki 300 eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo 50 iki 1450 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už veterinarinei veiklai būtinų reikalavimų nesilaikymą?",
+    "Output": "Pagal ANK 3431 str., bauda už veterinarinės farmacijos kvalifikuoto asmens pareigų neatlikimą yra nuo 800 iki 3000 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda skirta už gyvūnų gerovės ir apsaugos įstatymo reikalavimų pažeidimą?",
+    "Output": "Pagal ANK 346 str. 1 d., bauda yra nuo trisdešimt iki vieno šimto dvidešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda numatyta už žiaurų elgesį su gyvūnu, kai dėl to gyvūnams gresia žūtis ar suluošinimas?",
+    "Output": "Pagal ANK 346 str. 18 d., bauda yra nuo devynių šimtų iki trijų tūkstančių dviejų šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už žemės ūkio produktų gamybos, perdirbimo ar tiekimo rinkai tvarkos pažeidimą?",
+    "Output": "Pagal ANK 347 str. 1 d., bauda asmenims yra nuo dvidešimt iki vieno šimto keturiasdešimt eurų ir juridinių asmenų vadovams – nuo vieno šimto keturiasdešimt iki trijų tūkstančių eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už naujo nesudėtingojo statinio savavališką statybą?",
+    "Output": "Pagal ANK 351 str. 1 d., bauda yra nuo vieno šimto penkiasdešimt iki trijų šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už kovinių šunų mišrūnų įvežimą į Lietuvos Respubliką nelegaliai?",
+    "Output": "Pagal ANK 346 str. 11 d., bauda yra nuo vieno šimto dvidešimt iki vieno šimto aštuoniasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda skiriama, jei statinio statyba pažeidžia esminius projekto sprendinius?",
+    "Output": "Pagal ANK 350 str. 3 d., bauda yra nuo vieno šimto dvidešimt iki dviejų šimtų trisdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už naujo ypatingojo statinio savavališką statybą kultūros paveldo objekto teritorijoje pirmą kartą?",
+    "Output": "Pagal 352 straipsnio 11 dalį, bauda yra nuo keturių tūkstančių penkių šimtų iki šešių tūkstančių eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už nesudėtingojo statinio savavališką rekonstravimą kultūros paveldo vietovėje pirmą kartą?",
+    "Output": "Pagal 352 straipsnio 3 dalį, bauda yra nuo vieno šimto keturiasdešimt iki šešių šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už ypatingojo statinio savavališką rekonstravimą pakartotinai?",
+    "Output": "Pagal 352 straipsnio 10 dalį, bauda yra nuo penkių tūkstančių penkių šimtų iki šešių tūkstančių eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už nesudėtingojo statinio savavališką kapitalinį remontą pirmą kartą?",
+    "Output": "Pagal 353 straipsnio 1 dalį, bauda yra nuo šešiasdešimt iki vieno šimto keturiasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už statinio savavališką griovimą, jei jis įvykdomas kultūros paveldo vietovėje?",
+    "Output": "Pagal 355 straipsnio 3 dalį, bauda yra nuo šešiasdešimt iki vieno šimto dvidešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda skiriama už nebaigtų statyti ar rekonstruoti statinių kadastro duomenų tikslinimo pažeidimą?",
+    "Output": "40 straipsnis. Nebaigtų statyti ar rekonstruoti statinių kadastro duomenų tikslinimo Lietuvos Respublikos nekilnojamojo turto registre tvarkos pažeidimas užtraukia baudą nuo vieno šimto keturiasdešimt iki trijų šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda yra už pakartotinį statinio projekto, kuris prieštarauja reikalavimams, pateikimą?",
+    "Output": "Pagal 358 straipsnio 2 dalį, šis pažeidimas, padarytas pakartotinai, užtraukia baudą nuo vieno tūkstančio dviejų šimtų iki penkių tūkstančių aštuonių šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda skiriama už savavališką statinio naudojimą pažeidžiant nustatytus reikalavimus?",
+    "Output": "Pagal 359 straipsnio 1 dalį, tokia veika užtraukia baudą nuo dviejų šimtų aštuoniasdešimt iki trijų tūkstančių eurų."
+  },
+  {
+    "Instruction": "Kokia bauda skiriama už statinio naudotojo pareigų nevykdymą?",
+    "Output": "Pagal 360 straipsnio 1 dalį, už statinio naudotojo pareigų nevykdymą skiriama įspėjimas arba bauda nuo trisdešimt iki vieno šimto eurų."
+  },
+  {
+    "Instruction": "Kokia bauda numatyta už teritorijų planavimo dokumentų ar žemės valdos projektų rengimą neturint teisės verstis šia veikla?",
+    "Output": "Pagal 364 straipsnio 9 dalį, už šį pažeidimą užtraukia baudą nuo aštuonių šimtų iki dviejų tūkstančių keturių šimtų eurų."
+  },
+  {
+    "Instruction": "Kokios yra baudos už savavališką kasinėjimą bendrojo naudojimo teritorijoje ir nesutvarkymą baigus darbus?",
+    "Output": "Pagal 365 straipsnio 1 dalį, už šį pažeidimą skiriama bauda nuo trisdešimt iki vieno šimto keturiasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už savivaldybių tarybų patvirtintų želdynų ir želdinių apsaugos taisyklių pažeidimą?",
+    "Output": "Pagal 368 straipsnį, toks pažeidimas užtraukia įspėjimą arba baudą asmenims nuo 14 iki 30 eurų, o juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo 60 iki 140 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už kapinių tvarkymo taisyklių pažeidimą?",
+    "Output": "Pagal 369 straipsnio 1 dalį, toks pažeidimas užtraukia įspėjimą arba baudą nuo 14 iki 60 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už techninės apžiūros kontrolierių ar transporto priemonių ekspertų rengimo ir kvalifikacijos tobulinimo reikalavimų nesilaikymą?",
+    "Output": "Pagal 370 straipsnio 1 dalį, toks pažeidimas užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo 150 iki 300 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už tachografo techninės priežiūros atlikimą neturint teisės atlikti tachografų techninę priežiūrą?",
+    "Output": "Pagal 372 straipsnio 4 dalį, toks pažeidimas užtraukia baudą tachografų techninę priežiūrą atlikusiems asmenims nuo 300 iki 560 eurų, o juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo 600 iki 850 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už elgesio geležinkeliuose taisyklių pažeidimą, pavyzdžiui, daiktų dėjimą ant geležinkelių infrastruktūros objektų?",
+    "Output": "Pagal 373 straipsnio 3 dalį, toks pažeidimas užtraukia baudą nuo 140 iki 300 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už neteisėtą traukinio stabdymą?",
+    "Output": "Pagal 373 straipsnio 4 dalį, toks pažeidimas užtraukia baudą nuo 300 iki 560 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už tyčinius vagonų įrangos gadinimus?",
+    "Output": "Pagal ANK, už tyčinį vagonų įrangos gadinimą, bauda yra nuo keturiolikos iki trisdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už nepranešimą apie geležinkelių avariją pagal LR Administracinių nusižengimų kodeksą?",
+    "Output": "Pagal ANK 376 str., nepranešimas apie geležinkelių avariją užtraukia baudą nuo penkių šimtų iki dviejų tūkstančių penkių šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už geležinkelių riedmenų valdymą neturint teisės?",
+    "Output": "Pagal ANK 379 str., geležinkelių riedmenų valdymas neturint teisės užtraukia baudą nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už aukštų statinių ženklinimo taisyklių pažeidimą?",
+    "Output": "Pagal ANK 385 str., aukštų statinių ženklinimo taisyklių pažeidimas užtraukia baudą nuo vieno tūkstančio šešių šimtų iki keturių tūkstančių šešių šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už pavojingų medžiagų vežimo orlaiviais taisyklių pažeidimą?",
+    "Output": "Pagal ANK 386 str., pavojingų medžiagų vežimo orlaiviais taisyklių pažeidimas užtraukia baudą nuo vieno tūkstančio vieno šimto iki šešių tūkstančių eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už UAS naudojimo sąlygų pažeidimą geografinėse zonose?",
+    "Output": "Pagal ANK 393 str., UAS naudojimo sąlygų geografinėse zonose pažeidimas užtraukia baudą nuo keturių šimtų iki vieno tūkstančio dviejų šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už skrydžių saugos taisyklių pažeidimą?",
+    "Output": "Pagal ANK 10 str., bauda yra nuo vieno tūkstančio penkių šimtų iki trijų tūkstančių eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už nepateikimą privalomo pranešimo apie orlaivio avariją?",
+    "Output": "Pagal ANK 396 straipsnį, bauda asmenims yra nuo du šimtų aštuoniasdešimt iki šešių šimtų eurų, o juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno tūkstančio iki penkių tūkstančių eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už akrobatinių skrydžių taisyklių pažeidimą?",
+    "Output": "Pagal ANK 394 str., bauda yra nuo trijų šimtų iki šešių šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už lazerio spindulio nukreipimą į skrendantį orlaivį?",
+    "Output": "Pagal ANK 394 straipsnį, bauda yra nuo vieno tūkstančio penkių šimtų iki keturių tūkstančių dviejų šimtų penkiasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už planuojamą arba atliekamą darbą neblaiviai civilinės aviacijos specialistui?",
+    "Output": "Pagal ANK 14 str., bauda yra nuo trijų tūkstančių iki keturių tūkstančių dviejų šimtų penkiasdešimt eurų. Jei pažeidimas kartojasi, bauda padidėja iki šešių tūkstančių eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už jūros laivų rūkymo taisyklių pažeidimą aerodrome?",
+    "Output": "Pagal ANK 397 straipsnį, bauda yra nuo dešimt iki keturiolikos eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už saugios laivybos reikalavimų pažeidimą, kai laivas registruotas kita valstybė, bet neišregistruotas iš Lietuvos jūrų laivų registro?",
+    "Output": "Pagal ANK, bauda laivų valdytojams – asmenims arba juridinių asmenų vadovams yra nuo šešių šimtų iki vieno tūkstančio keturių šimtų penkiasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už neblaivų laivavedį?",
+    "Output": "Pagal ANK, bauda laivų kapitonams arba kitiems įgulos nariams yra nuo aštuonių šimtų penkiasdešimt iki vieno tūkstančio penkių šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už nepranešimą apie laivo avariją teisingoms institucijoms?",
+    "Output": "Pagal ANK 4011 straipsnį, bauda laivų kapitonams ir laivybos bendrovėms – fiziniams arba juridinių asmenų vadovams ar kitiems atsakingiems asmenims yra nuo penkių šimtų iki dviejų tūkstančių penkių šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už laivų ir uosto įrenginių apsaugos reikalavimų pažeidimą?",
+    "Output": "Pagal ANK 402 straipsnį, bauda asmenims yra nuo dvidešimt iki penkiasdešimt eurų, laivų kapitonams nuo trisdešimt iki vieno šimto keturiasdešimt eurų, o juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno šimto penkiasdešimt iki šešių šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už vidaus vandenų laivybos taisyklių pažeidimą, sukėlusį avarinę situaciją?",
+    "Output": "Pagal ANK 406 straipsnio 4 dalį, bauda asmenims yra nuo vieno šimto keturiasdešimt iki trijų šimtų eurų, o juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už rūkimą jūrų laivuose nenustatytose vietose?",
+    "Output": "Pagal ANK 404 straipsnį, už rūkimą jūrų laivuose nenustatytose vietose užtraukia įspėjimą arba baudą nuo dešimt iki keturiolikos eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už pramoginių ir asmeninių laivų reikalavimų pažeidimą?",
+    "Output": "Pagal ANK 412 str., bauda yra nuo 300 iki 850 eurų asmenims ir nuo 600 iki 1450 eurų juridinių asmenų vadovams."
+  },
+  {
+    "Instruction": "Kokia bauda už oro transporto priešgaisrinės apsaugos taisyklių pažeidimą?",
+    "Output": "Pagal ANK 413 str., bauda yra nuo 16 iki 30 eurų asmenims ir nuo 30 iki 60 eurų juridinių asmenų vadovams."
+  },
+  {
+    "Instruction": "Kokia bauda už nustatyto greičio viršijimą daugiau kaip 50 km/h?",
+    "Output": "Pagal ANK 416 str., bauda yra nuo 450 iki 550 eurų vairuotojams ir nuo 450 iki 700 eurų asmenims neturintiems teisės vairuoti."
+  },
+  {
+    "Instruction": "Kokia bauda už transporto priemonių dalyvavimo viešajame eisme reikalavimų pažeidimą, jei transporto priemonė turi suklastotus valstybinio numerio ženklus?",
+    "Output": "Pagal ANK 415 str., bauda yra nuo 240 iki 340 eurų vairuotojams."
+  },
+  {
+    "Instruction": "Kokia bauda už važiavimą draudžiamam šviesoforo signalui?",
+    "Output": "Pagal ANK 417 str., bauda yra nuo 60 iki 90 eurų vairuotojams."
+  },
+  {
+    "Instruction": "Ką gali užtraukti draudimo nevykdymas apdrausti transporto priemones privalomuoju civilinės atsakomybės draudimu?",
+    "Output": "Pagal ANK 415 str., bauda yra nuo 50 iki 100 eurų vairuotojams."
+  },
+  {
+    "Instruction": "Kokia bauda už vietinės rinkliavos už automobilių statymą tvarkos pažeidimą?",
+    "Output": "Pagal ANK 418 str. 1 dalį, bauda vairuotojams yra nuo dvidešimt iki keturiasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už chuliganišką vairavimą?",
+    "Output": "Pagal ANK 420 str. 2 dalį, bauda vairuotojams yra nuo keturių šimtų penkiasdešimt iki penkių šimtų penkiasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už transporto priemonės vairavimą neblaiviam asmeniui?",
+    "Output": "Pagal ANK 422 str. 1 dalį, bauda yra nuo devyniasdešimt iki vieno šimto keturiasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už nežymų kitų asmenų sveikatos sutrikdymą sukėlusį Kelių eismo taisyklių pažeidimą?",
+    "Output": "Pagal ANK 423 str. 2 dalį, bauda vairuotojams yra nuo vieno šimto penkiasdešimt iki trijų šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už alkoholio produktų vartojimą transporto priemonės salone?",
+    "Output": "Pagal ANK 4221 str. 1 dalį, bauda yra nuo keturiasdešimt iki vieno šimto eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už transporto priemonės vairavimą, jei vairuotojui pasibaigęs vairuotojo pažymėjimo galiojimo laikas?",
+    "Output": "Pagal ANK 324 str. 1 dalį, bauda yra nuo trisdešimt iki penkiasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už transporto priemonės vairavimą neturint teisės jos vairuoti?",
+    "Output": "Pagal ANK 324 str. 3 dalį, bauda yra nuo trijų šimtų iki keturių šimtų penkiasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda vairuotojams už komercinę veiklą neturint suderinto Europos Sąjungos kodo (95) pažymėjime?",
+    "Output": "Pagal ANK 425 str. 1 dalį, bauda yra nuo septyniasdešimt iki vieno šimto keturiasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už pasitraukimą iš eismo įvykio vietos, kai padaryta žala viršija penkiolika bazinių bausmių?",
+    "Output": "Pagal ANK 426 str. 2 dalį, bauda vairuotojams yra nuo vieno tūkstančio vieno šimto iki dviejų tūkstančių eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už vairavimą neblaiviam (0,41–1,5 promilės) pakartotinai?",
+    "Output": "Pagal ANK 427 str. 1 dalį, bauda vairuotojams yra nuo vieno tūkstančio iki vieno tūkstančio penkių šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už šalmų nenaudojimą elektrinių mikrojudumo priemonių vairuotojams?",
+    "Output": "Bauda už šalmų nenaudojimą elektrinių mikrojudumo priemonių vairuotojams užtraukia baudą nuo dvidešimt iki keturiasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už Kelių eismo taisyklių pažeidimą, kuris sukėlė pavojingą situaciją?",
+    "Output": "Bauda už Kelių eismo taisyklių pažeidimą, sukėlusį pavojingą situaciją, yra nuo trisdešimt iki penkiasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už leidimą važiuoti gedimų turinčia transporto priemone?",
+    "Output": "Bauda už leidimą važiuoti gedimų turinčia transporto priemone yra nuo šešiasdešimt iki vieno šimto dvidešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už vaikų netinkamą vežimą transporto priemonėje?",
+    "Output": "Bauda už vaikų tinkamai neprisegtą saugos diržais arba netinkamai parinktomis sėdynėmis vežimą yra nuo trisdešimt iki penkiasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už draudžiamų medžiagų vežimą autobusu?",
+    "Output": "Bauda už draudžiamų medžiagų vežimą autobusu yra nuo keturiolikos iki trisdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už pavojingųjų krovinių vežimą automobilių keliais, kai transporto priemonės dokumentai netvarkingi?",
+    "Output": "Bauda už pavojingųjų krovinių vežimą automobilių keliais, kai transporto dokumentuose nepateikta tinkama informacija, yra įspėjimas arba bauda nuo dešimt iki trisdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už pavojingų krovinių vežimą, kai transporto priemonė neatitinka standartų?",
+    "Output": "Pagal 437 straipsnį, bauda geležinkelio įmonių vadovams ar kitiems atsakingiems asmenims nuo vieno šimto dvidešimt iki dviejų šimtų dvidešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už pavojingų krovinių, kurių tara pažeista, pakrovimą?",
+    "Output": "Pagal 437 straipsnį, bauda pakrovimo darbus atliekančių įmonių vadovams ar kitiems atsakingiems asmenims arba krovėjams nuo trisdešimt iki vieno šimto dvidešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už pavojingų krovinių vežimą, kai transporto dokumentuose nepakankamai informacijos?",
+    "Output": "Pagal 437 straipsnį, bauda įspėjimas arba nuo dešimt iki trisdešimt eurų geležinkelio įmonių vadovams ar kitiems atsakingiems asmenims."
+  },
+  {
+    "Instruction": "Kokia bauda už pavojingųjų krovinių vežimą geležinkeliu, kai naudojama netinkama tara?",
+    "Output": "Pagal 437 straipsnį, bauda krovinius vežti pateikusių įmonių vadovams ar kitiems atsakingiems asmenims (siuntėjams) nuo trisdešimt iki vieno šimto dvidešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už pavojingųjų krovinių vežimą vidaus vandenų keliais?",
+    "Output": "Pagal 438 straipsnį, bauda įmonių vadovams ar kitiems atsakingiems asmenims nuo trijų šimtų iki šešių šimtų eurų arba kitiems asmenims – nuo šešiasdešimt iki dviejų šimtų trisdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už gyvenimą autobuso ar troleibuso laipteliais?",
+    "Output": "Pagal 439 straipsnį, bauda nuo keturiolikos iki trisdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už geležinkelių transporto darbuotojų sutikimą vežti keleivius be bilieto?",
+    "Output": "Pagal ANK, bauda yra nuo trisdešimt iki penkiasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už nustatytų aviacijos saugumo reikalavimų pažeidimą?",
+    "Output": "Pagal ANK 443 straipsnį, bauda yra nuo vieno tūkstančio iki dviejų tūkstančių devynių šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už vaikų vežimą be bilieto jūrų laivuose?",
+    "Output": "Pagal ANK 444 straipsnį, bauda yra nuo keturiolikos iki trisdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už neapmokėto bagažo vežimą keleivinėmis kelių transporto priemonėmis?",
+    "Output": "Pagal ANK 446 straipsnį, bauda yra nuo dešimt iki dvylikos eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už krovinių vežimą car sans galiojančios licencijos?",
+    "Output": "Pagal ANK 450 straipsnį, bauda yra nuo trijų šimtų iki penkių šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už keleivių vežimo organizatorių pareigų nevykdymą?",
+    "Output": "Pagal ANK 4491 straipsnį, bauda yra nuo trijų šimtų iki aštuonių šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už krovinių pateikimą vežti neįteikiant masės deklaracijos?",
+    "Output": "Pagal ANK 13 dalį, bauda ekspeditoriams yra nuo penkių šimtų šešiasdešimt iki devynių šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už kelių transporto priemonių vairuotojų grįžimo į registracijos šalį neužtikrinimą?",
+    "Output": "Pagal ANK 15 dalį, bauda juridinių asmenų vadovams yra nuo penkių šimtų šešiasdešimt iki devynių šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už nustatytos kasdienės vairavimo trukmės viršijimą daugiau nei dviem valandomis, bet mažiau nei keturiomis valandomis trisdešimt minučių?",
+    "Output": "Pagal ANK 451 straipsnio 3 dalį, bauda vairuotojams yra nuo vieno šimto iki dviejų šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda vairuotojams už tarptautinių sutarčių pažeidimą, kai nėra kelionės leidimo?",
+    "Output": "Pagal ANK 17 dalį, bauda vairuotojams yra nuo dviejų tūkstančių iki trijų tūkstančių eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už keleivių vežimą be vairuotojo darbo grafikų?",
+    "Output": "Pagal ANK 453 straipsnio 11 dalį, bauda juridinių asmenų vadovams yra nuo devynių šimtų iki vieno tūkstančio septynių šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už vairavimo trukmės per vieną savaitę viršijimą daugiau nei keturiolika valandų?",
+    "Output": "Pagal ANK 451 straipsnio 8 dalį, bauda vairuotojams yra nuo dviejų šimtų penkiasdešimt iki trijų šimtų penkiasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už netinkamų registracijos lapų ar kortelės naudojimą, kai dirbama su porininku?",
+    "Output": "Pagal ANK 454 str. 1 d., bauda yra nuo dviejų šimtų iki trijų šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už daugiau kaip vienos vairuotojo kortelės turėjimą ir (ar) naudojimą?",
+    "Output": "Pagal ANK 454 str. 2 d., bauda yra nuo trijų šimtų iki penkių šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už tachografo, pritaikyto duomenims klastoti, naudojimą?",
+    "Output": "Pagal ANK 454 str. 11 d., bauda vairuotojams yra nuo trijų šimtų penkiasdešimt iki šešių šimtų eurų ir juridinių asmenų vadovams – nuo devynių šimtų iki vieno tūkstančio septynių šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už keleivių vežimo užsakomaisiais reisais tvarkos pažeidimus?",
+    "Output": "Pagal ANK 457 str. 1 d., bauda vairuotojams yra nuo septyniasdešimt iki vieno šimto keturiasdešimt eurų ir juridinių asmenų vadovams – nuo vieno šimto keturiasdešimt iki trijų šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už vairavimo be tinkamo leidimo, kai transporto priemonės matmenys viršija leidžiamus?",
+    "Output": "Pagal ANK 459 str. 4 d., bauda vairuotojams yra nuo vieno šimto keturiasdešimt iki trijų šimtų eurų ir juridinių asmenų vadovams – nuo trijų šimtų iki penkių šimtų septyniasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už netinkamai dirbtuvėse įrengtų greičio ribojimo prietaisų naudojimą?",
+    "Output": "Pagal ANK 456 str. 1 d., bauda vairuotojams yra nuo dviejų šimtų iki keturių šimtų eurų ir juridinių asmenų vadovams – nuo aštuonių šimtų iki vieno tūkstančio šešių šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už kelio statinių, įrenginių ar kelių eismo techninių reguliavimo priemonių sugadinimą?",
+    "Output": "Pagal ANK, tokio nusižengimo bauda yra nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už krovinių pateikimą vežti, kai viršijama leidžiamoji apkrova?",
+    "Output": "Pagal ANK 10 straipsnį, tokio nusižengimo bauda yra nuo penkių šimtų šešiasdešimt iki devynių šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už automobilių kelio juostos ir kelio apsaugos zonos priežiūros pažeidimą?",
+    "Output": "Pagal ANK 460 straipsnio 1 dalį, tokio nusižengimo bauda yra nuo devyniasdešimt iki vieno šimto keturiasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už kelių naudotojo mokesčio nesumokėjimą?",
+    "Output": "Pagal ANK 463 straipsnį, tokio nusižengimo bauda yra nuo septynių šimtų iki vieno tūkstančio eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už Lietuvos Respublikos ryšių reguliavimo tarnybos nurodymų nevykdymą?",
+    "Output": "Pagal ANK 465 straipsnio 1 dalį, tokio nusižengimo bauda yra nuo vieno šimto penkiasdešimt iki trijų šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už pakartotinį dekoderių ar kitų dekoduojančių įrenginių naudojimą neteisėtai prieigai gauti?",
+    "Output": "Pagal ANK 475 str. 2 d., bauda yra nuo penkių šimtų penkiasdešimt iki vieno tūkstančio dviejų šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už Lietuvos Respublikos elektroninių ryšių įstatyme numatytos informacijos nepateikimą?",
+    "Output": "Pagal ANK 4761 str. 1 d., bauda yra nuo vieno šimto penkiasdešimt iki trijų šimtų eurų."
+  },
+  {
+    "Instruction": "Kokiame straipsnyje numatytas dekoderių ir kitų įrenginių konfiskavimas?",
+    "Output": "Pagal ANK 475 str. 3 d., privaloma skirti įrenginių konfiskavimą."
+  },
+  {
+    "Instruction": "Kokia bauda už neteisėtą šaudymą iš ginklo gyvenamosiose vietovėse?",
+    "Output": "Pagal ANK 482 str. 1 d., bauda yra nuo trisdešimt iki vieno šimto dvidešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už reglamento (ES) 2019/881 nustatytos kibernetinio saugumo sertifikavimo tvarkos pažeidimą?",
+    "Output": "Pagal ANK 4801 str. 1 d., bauda yra nuo trisdešimt iki trijų šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už nedidelį viešosios tvarkos pažeidimą viešojoje vietoje?",
+    "Output": "Pagal ANK 481 str. 1 d., bauda yra nuo trisdešimt iki vieno šimto keturiasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už civilinių pirotechnikos priemonių įsigijimo, naudojimo tvarkos pažeidimą?",
+    "Output": "Pagal ANK 483 str. 1 d., bauda yra nuo keturiolikos iki trisdešimt eurų, o pakartotiniam pažeidimui taikoma bauda nuo trisdešimt iki šešiasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda skiriama už alkoholinių gėrimų gėrimą viešosiose vietose?",
+    "Output": "Pagal ANK 484 str. 1 d., bauda yra nuo dvidešimt iki vieno šimto eurų, o pakartotiniam pažeidimui bauda siekia nuo vieno šimto iki dviejų šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už viešojo maitinimo vietose įsigytų alkoholinių gėrimų išnešimą draudžiamu laiku?",
+    "Output": "Pagal ANK 4841 str. 1 d., bauda yra nuo keturiolikos iki trisdešimt eurų, o pakartotiniam pažeidimui taikoma bauda nuo trisdešimt iki devyniasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda taikoma už patalpų suteikimą azartiniams lošimams?",
+    "Output": "Pagal ANK 486 str. 1 d., bauda yra nuo šešiasdešimt iki vieno šimto dvidešimt eurų, o pakartotiniam pažeidimui taikoma bauda nuo vieno šimto dvidešimt iki dviejų šimtų aštuoniasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už viešosios rimties trikdymą garsiai grojant muzika naktį?",
+    "Output": "Pagal ANK 488 str. 1 d., bauda yra nuo aštuoniasdešimt iki dviejų šimtų eurų, o pakartotinei veikai taikoma bauda nuo dviejų šimtų iki trijų šimtų eurų fiziniams asmenims."
+  },
+  {
+    "Instruction": "Kokia bauda už vertimąsi prostitucija ar naudojimąsi prostitucijos paslaugomis?",
+    "Output": "Pagal ANK 487 str. 1 d., bauda yra nuo devyniasdešimt iki vieno šimto keturiasdešimt eurų, o pakartotiniam pažeidimui bauda nuo vieno šimto keturiasdešimt iki trijų šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už Lietuvos Respublikos susirinkimų įstatymo pažeidimą?",
+    "Output": "Pagal ANK 494 str. 1 d., bauda yra nuo vieno šimto keturiasdešimt iki šešių šimtų eurų."
+  },
+  {
+    "Instruction": "Kokios sankcijos taikomos už neteisėtų mitingų organizavimą branduolinės energetikos objekto teritorijoje?",
+    "Output": "Pagal ANK 495 str., bauda yra nuo vieno šimto keturiasdešimt iki septynių šimtų keturiasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už kino filmų viešo rodymo reikalavimų pažeidimą?",
+    "Output": "Pagal ANK 496 str. 1 d., bauda yra nuo vieno šimto keturiasdešimt iki keturių šimtų keturiasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokios sankcijos taikomos už policijos specialiosios juostos perėjimą?",
+    "Output": "Pagal ANK 506 str. 2 d., bauda asmenims yra nuo trisdešimt iki devyniasdešimt eurų ir juridinių asmenų vadovams – nuo vieno šimto penkiasdešimt iki aštuonių šimtų penkiasdešimt eurų."
+  },
+  {
+    "Instruction": "Koks baudų intervalas taikomas už dokumentų pateikimą nevalstybine kalba?",
+    "Output": "Pagal ANK 501 str. 1 d., bauda juridinių asmenų vadovams yra nuo vieno šimto dvidešimt iki vieno šimto septyniasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už valstybės politiko garbės ir orumo pažeminimą?",
+    "Output": "Pagal ANK 507 str., bauda yra nuo penkiasdešimt iki trijų šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda gresia, jei asmuo nevykdo narkotikų, tabako ir alkoholio kontrolės departamento direktoriaus sprendimo?",
+    "Output": "Pagal ANK 5101 str., bauda asmenims yra nuo trijų šimtų iki vieno tūkstančio penkių šimtų eurų, o juridinių asmenų vadovams – nuo penkių šimtų iki trijų tūkstančių eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už kliudymą įgyvendinti žemės paėmimo visuomenės poreikiams procedūras?",
+    "Output": "Pagal ANK 511 str., bauda yra nuo trisdešimt iki vieno šimto keturiasdešimt eurų, o jei nusižengimas padarytas pakartotinai – nuo vieno šimto keturiasdešimt iki trijų šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda skiriama už tarptautinių sankcijų pažeidimą?",
+    "Output": "Pagal ANK 515 str., bauda asmenims nuo dviejų šimtų iki šešių tūkstančių eurų, o juridinių asmenų vadovams – nuo šešių šimtų iki šešių tūkstančių eurų."
+  },
+  {
+    "Instruction": "Kas gresia už valstybinės mobilizacinės užduoties nevykdymą?",
+    "Output": "Pagal ANK 517 str., bauda juridinių asmenų vadovams yra nuo šešiasdešimt iki trijų šimtų eurų, o jei nusižengimas padarytas mobilizacijos metu – nuo vieno tūkstančio iki keturių tūkstančių eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už asmens, įrašyto į civilinio mobilizacinio personalo rezervą, funkcijų neatlikimą mobilizacijos ar karo padėties metu?",
+    "Output": "Pagal ANK 5174 str. 3 d., bauda yra nuo dviejų šimtų iki vieno tūkstančio dviejų šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už savavaldžiavimą nedarant esminės žalos kitų asmenų teisėms?",
+    "Output": "Pagal ANK 518 str., bauda asmenims yra nuo šešiolikos iki šešiasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už neteisėtą Lietuvos valstybės apdovanojimų ženklų ar jų pakaitų nešiojimą?",
+    "Output": "Pagal ANK 520 str., bauda yra nuo dešimt iki keturiolikos eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatymo pažeidimą?",
+    "Output": "Pagal ANK 526 str. 1 d., bauda asmenims yra nuo šešiasdešimt iki vieno šimto dvidešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už gyvenamosios vietos deklaravimo duomenų nepateikimą?",
+    "Output": "Pagal ANK 530 str. 1 d., užtraukia įspėjimą arba baudą nuo dešimt iki keturiolikos eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už nepranešimą apie kitos valstybės pilietybės įgijimą?",
+    "Output": "Pagal ANK 532 str., bauda yra nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už asmens tapatybės kortelės ar paso paėmimą kaip užstato?",
+    "Output": "Pagal ANK 534 str., bauda yra nuo keturiolikos iki trisdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už pasinaudojimą negaliojančiu asmens dokumentu?",
+    "Output": "Pagal ANK 535 str. 1 dalį, bauda yra nuo trisdešimt iki vieno šimto penkiasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už valstybės sienos kirtimą, pažeidžiant teisinį režimą?",
+    "Output": "Pagal ANK 536 str. 1 dalį, bauda yra įspėjimas arba nuo keturiasdešimt iki devyniasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už neatsargų neteisėtą valstybės sienos perėjimą?",
+    "Output": "Pagal ANK 537 str., bauda yra nuo septyniasdešimt iki vieno šimto keturiasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už politinės organizacijos gautų lėšų apskaitos tvarkos pažeidimą?",
+    "Output": "Pagal ANK 544 str. 1 dalį, bauda yra nuo vieno šimto keturiasdešimt iki šešių šimtų eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už tyčinį antspaudo sugadinimą arba nuplėšimą?",
+    "Output": "Pagal ANK 546 str., bauda yra nuo trijų šimtų devyniasdešimt iki septynių šimtų aštuoniasdešimt eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už pakartotinį neteisėtą valstybės informacinių sistemų duomenų tvarkymą?",
+    "Output": "Pagal ANK 552 str. 2 d., bauda yra nuo 170 iki 350 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda taikoma už nepagrįstą informacijos įslaptinimą?",
+    "Output": "Pagal ANK 554 str., už nepagrįstą informacijos įslaptinimą skiriamas įspėjimas arba bauda nuo 30 iki 60 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda numatyta už draudžiamo filmavimo ar fotografavimo karinės teritorijos zonoje?",
+    "Output": "Pagal ANK 5571 str. 1 d., bauda yra nuo 200 iki 400 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda skiriama už neatvykimą į privalomąją karo tarnybą be pateisinamos priežasties?",
+    "Output": "Pagal ANK 558 str., neatvykimas užtraukia baudą nuo 280 iki 450 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda taikoma už neteisėtą kario uniformos dėvėjimą viešoje vietoje?",
+    "Output": "Pagal ANK 562 str., taikoma bauda nuo 30 iki 140 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už karo prievolininkui taikomų judėjimo laisvės apribojimų pažeidimą mobilizacijos metu?",
+    "Output": "Pagal ANK 5601 str. 2 d., pakartotinis pažeidimas užtraukia baudą nuo 300 iki 600 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda už chuliganišką vairavimą?",
+    "Output": "Pagal ANK 420 str., bauda yra ..."
+  },
+  {
+    "Instruction": "Kokia bauda už neteisėtą ginklų laikymą?",
+    "Output": "Pagal ANK 223 str., bauda yra ..."
+  },
+  {
+    "Instruction": "Kokios sankcijos taikomos nepilnamečių pažeidėjams?",
+    "Output": "Pagal ANK 212 str., sankcijos yra ... įspėjimas, bauda arba ... "
+  },
+  {
+    "Instruction": "Koks yra nusižengimo protokolo sudarymo procesas?",
+    "Output": "Pagal ANK 569 str., protokolas sudaromas surenkant įrodymus, kaip pvz. liudytojų parodimai ir kt..."
+  },
+  {
+    "Instruction": "Kokios priemonės naudojamos įrodymams rinkti administracinėse bylose?",
+    "Output": "Pagal ANK 569 str. 1 dalį, įrodymams rinkti naudojami protokolai, tarnybiniai pranešimai, nuotraukos, vaizdo įrašai ir kt."
+  },
+  {
+    "Instruction": "Kas sprendžia ar duomenys laikytini įrodymais administracinėje byloje?",
+    "Output": "Pagal ANK 569 str. 4 dalį, ar duomenys laikytini įrodymais sprendžia teismas arba bylą nagrinėjanti institucija."
+  },
+  {
+    "Instruction": "Kokios teisės turi administracinėn atsakomybėn traukiamas asmuo?",
+    "Output": "Pagal ANK 577 str., administracinėn atsakomybėn traukiamas asmuo turi teisę susipažinti su bylos medžiaga, dalyvauti nagrinėjant bylą žodinio proceso tvarka ir duoti paaiškinimus, pateikti paaiškinimus nagrinėjant bylą rašytinio proceso tvarka ir kita."
+  },
+  {
+    "Instruction": "Kokia atsakomybė gresia liudytojui, davusiam melagingus parodymus teisme?",
+    "Output": "Pagal ANK 581 str. 4 d. liudytojas, davęs melagingus parodymus teisme, atsako pagal Baudžiamojo kodekso 235 straipsnį."
+  },
+  {
+    "Instruction": "Kokios teisės suteikiamos nukentėjusiajam administracinio nusižengimo srityje?",
+    "Output": "Pagal ANK 579 str., nukentėjusysis turi teisę susipažinti su bylos medžiaga, dalyvauti nagrinėjant bylą žodinio proceso tvarka, pareikšti prašymus ir nušalinimus, naudotis teisine advokato ar kito įgalioto atstovo pagalba ir kita."
+  },
+  {
+    "Instruction": "Kokios yra administracinėn atsakomybėn traukiamo asmens pareigos?",
+    "Output": "Pagal ANK 577 str. 3 d., administracinėn atsakomybėn traukiamas asmuo privalo laikytis nustatytos teisenos tvarkos, šaukiamas atvykti pas administracinį nusižengimą tiriantį pareigūną ar teismą ir dalyvauti teisenoje naudodamasis informacinėmis ir elektroninių ryšių technologijomis."
+  },
+  {
+    "Instruction": "Kas yra įgaliotas atstovas administracinio nusižengimo byloje?",
+    "Output": "Pagal ANK 585 str., įgaliotu atstovu gali būti advokatas, advokato padėjėjas arba asmuo, turintis aukštąjį teisinį išsilavinimą, kai jis atstovauja artimuosius giminaičius ar sutuoktinį."
+  },
+  {
+    "Instruction": "Kada įgaliotas atstovas negali dalyvauti administracinio nusižengimo byloje?",
+    "Output": "Pagal ANK 586 str., įgaliotas atstovas negali dalyvauti byloje, jei teikė teisinę pagalbą asmeniui, kurio interesai prieštarauja atstovaujamo asmens interesams, arba jeigu tiriant bylą dalyvauja pareigūnas ar teisėjas, su kuriuo atstovas turi giminystės ryšių."
+  },
+  {
+    "Instruction": "Kas atsako už melagingų eksperto išvados pateikimą administracinio nusižengimo tyrimo metu?",
+    "Output": "Pagal ANK 587 str. 5 d., ekspertas ir specialistas už melagingų išvadų pateikimą atsako pagal šio kodekso 224 str. 2 dalį."
+  },
+  {
+    "Instruction": "Kokia is bauda už melagingą vertimą teisme?",
+    "Output": "Pagal ANK 588 str. 2 d., vertėjas už melagingą ar žinomai neteisingą vertimą teisme atsako pagal Baudžiamojo kodekso 235 straipsnį."
+  },
+  {
+    "Instruction": "Kokių institucijų pareigūnai turi teisę pradėti administracinių nusižengimų teiseną?",
+    "Output": "Pagal ANK 589 straipsnį, teiseną turi teisę pradėti institucijos, tokios kaip Lietuvos Respublikos Seimo kontrolierių įstaigos, Vaiko teisų apsaugos kontrolieriaus įstaigos, Lygių galimybių kontrolieriaus tarnybos ir kitos."
+  },
+  {
+    "Instruction": "Ką apima administracinių nusižengimų tyrimas?",
+    "Output": "Pagal ANK 589 str., administracinių nusižengimų tyrimą atlieka įgalioti pareigūnai, kurie pradeda teiseną ir surašo nusižengimų protokolus."
+  },
+  {
+    "Instruction": "Kokia bauda už nusižengimą pagal 505 straipsnį?",
+    "Output": "Administraciniai nusižengimai pagal 505 straipsnį numatyti keliuose nurodytuose kontekstuose, tačiau specifinė bauda nėra nurodyta pateiktame tekste."
+  },
+  {
+    "Instruction": "Koks nusižengimas yra numatytas 507 straipsnyje?",
+    "Output": "Pagal pateiktą informaciją, 507 straipsnyje yra numatomi administraciniai nusižengimai, tačiau specifiniai pažeidimai nėra pateikti šiame tekste."
+  },
+  {
+    "Instruction": "Kokie pažeidimai yra numatyti 546 straipsnyje?",
+    "Output": "546 straipsnyje numatyti administraciniai nusižengimai, susiję su tam tikromis aplinkybėmis, bet tiksli informacija nėra nurodyta."
+  },
+  {
+    "Instruction": "Kas yra atsakingas už nusižengimų pagal 145 straipsnį kontrolę?",
+    "Output": "Pagal šio teksto informaciją, Valstybinės maisto ir veterinarijos tarnybos yra atsakingos už 145 straipsnyje numatytus administracinius nusižengimus."
+  },
+  {
+    "Instruction": "Kam tenka atsakomybė dėl 92 straipsnio pažeidimų?",
+    "Output": "Aplinkos apsaugos valstybinės priežiūros pareigūnai ir Kultūros paveldo departamentas yra atsakingi už 92 straipsnyje numatytus administracinius nusižengimus."
+  },
+  {
+    "Instruction": "Kas kontroliuoja nusižengimus 480 straipsnyje?",
+    "Output": "Nacionalinio kibernetinio saugumo centras yra atsakingas už nusižengimus pagal 480 straipsnį."
+  },
+  {
+    "Instruction": "Kokia bauda skiriama už administracinį nusižengimą pagal 45 straipsnio 4 dalį?",
+    "Output": "43 straipsnyje numatyta bauda už administracinį nusižengimą, kuris nurodytas 45 straipsnio 4 dalyje."
+  },
+  {
+    "Instruction": "Kokios baudos numatytos už nusižengimus pagal 72 straipsnio 1, 2, 3 dalis?",
+    "Output": "Baudos už nusižengimus pagal ANK 72 straipsnio 1, 2, 3 dalis yra numatytos atitinkamai policijos sprendimu."
+  },
+  {
+    "Instruction": "Kokia bauda numatyta už nusižengimą pagal 127 straipsnio 1 dalį?",
+    "Output": "Bauda už administracinį nusižengimą pagal ANK 127 straipsnio 1 dalį yra skiriama pagal Radiacinės saugos centro taisykles."
+  },
+  {
+    "Instruction": "Kokia bauda taikoma už nusižengimą, nurodytą 506 straipsnio 4 dalyje?",
+    "Output": "Pagal ANK 506 straipsnio 4 dalį numatytą nusižengimą bauda skiriama atsižvelgiant į Vadovybės apsaugos tarnybos nuostatas."
+  },
+  {
+    "Instruction": "Kokios baudos įtvirtintos už nusižengimus, paminėtus 505 straipsnyje?",
+    "Output": "Administracinių nusižengimų kodas 505 straipsnyje numatytoms baudoms taikomos bendrosios Valstybinės mokesčių inspekcijos taisyklės."
+  },
+  {
+    "Instruction": "Kokia bauda numatyta už nusižengimus, susijusius su jūrų uostų kapitonu?",
+    "Output": "Pagal ANK 399, 400, 434 straipsnių 3 dalį, 458 ir 505 straipsnius, yra numatytos baudos ir atsakomybės už šiuos nusižengimus. Konkreti bauda kiekvienam straipsniui turėtų būti paieškoma individualiai ANK arba konsultuojantis su teisininku."
+  },
+  {
+    "Instruction": "Kas gali būti atsakingas už nusižengimus, numatytus Lietuvos prabavimo rūmams?",
+    "Output": "Pagal ANK 142, 198 straipsnius ir 308 straipsnio 20 dalis, atsakomybė gali būti taikoma už pažeidimus, susijusius su Lietuvos prabavimo rūmais. Tiksli nuobaudos forma priklauso nuo konkretaus nusižengimo detalizacijos, numatytos ANK."
+  },
+  {
+    "Instruction": "Kokia institucija atsako už nusižengimus pagal 223 straipsnį?",
+    "Output": "Valstybės įmonė Registrų centras gali būti valdymo įstaiga atsakinga už nusižengimus pagal ANK 223 straipsnio 1 ir 2 dalis."
+  },
+  {
+    "Instruction": "Kokia institucija nagrinėja nusižengimus pagal 492 straipsnio straipsnį?",
+    "Output": "491 straipsnyje numatytus nusižengimus tyrimą atlieka institucijos pareigūnai, kurie fiksuoja tam tikrą veiką arba tam tikros kitos institucijos pareigūnai remiantis straipsnio 1 dalyje numatyta tvarka."
+  },
+  {
+    "Instruction": "Kokia tvarka pradedama teisena pagal 119 straipsnį?",
+    "Output": "Pagal 590 straipsnio 4 dalį, administracinių nusižengimų teisena dėl 119 straipsnyje numatytų administracinių nusižengimų pradedama akcininko, žemės ūkio bendrovės nario ar kreditoriaus pareiškimu."
+  },
+  {
+    "Instruction": "Kokia bauda taikoma už vairavimą, kai asmuo yra neblaivus ar apsvaigęs nuo psichotropinių medžiagų?",
+    "Output": "Pagal ANK 595 str. 9 punktą, gali būti paimtas vairuotojo teisę patvirtinantis dokumentas ir teisė vairuoti transporto priemones gali būti sustabdyta."
+  },
+  {
+    "Instruction": "Kada gali būti paimti ginklai ir šaudmenys pagal administracinį nusižengimą?",
+    "Output": "Pagal ANK 599 str. 2 dalį, ginklai ir šaudmenys gali būti paimti padarius 182, 183, 227, 228, 229, 231, 232, 233, 482, 483 straipsniuose numatytus administracinius nusižengimus iki bylos išnagrinėjimo."
+  },
+  {
+    "Instruction": "Kokia bauda taikoma asmenims, kurie trukdo daiktų ir dokumentų poėmiui?",
+    "Output": "Pagal ANK 600 str. 3 dalį, asmenys, trukdantys poėmiui, atsako pagal šio kodekso 224 straipsnio 1 dalį."
+  },
+  {
+    "Instruction": "Kokios yra administracinių nusižengimų teisenos užtikrinimo prievartos priemonės?",
+    "Output": "Pagal ANK 595 str., administracinių nusižengimų teisenos užtikrinimo prievartos priemonės apima: administracinėn atsakomybėn traukiamo asmens pristatymą ir paiešką, asmenų atvesdinimą, administracinį sulaikymą, asmens apžiūrą ir daiktų patikrinimą, daiktų ir dokumentų paėmimą, poėmį, vairavimo teisės dokumentų paėmimą, specialiąją teisę patvirtinančio dokumento paėmimą ir priverstinį transporto priemonių nuvežimą."
+  },
+  {
+    "Instruction": "Kokios yra administracinio sulaikymo trukmės?",
+    "Output": "Pagal ANK 597 str. 3 dalį, administracinis sulaikymas gali trukti ne ilgiau kaip penkias valandas, o tam tikrais atvejais iki keturiasdešimt aštuonių valandų."
+  },
+  {
+    "Instruction": "Kokia bauda skiriama už atsisakymą pateikti administracinį nusižengimą tiriančio pareigūno prašomą informaciją ar dokumentus?",
+    "Output": "Pagal ANK 505 straipsnį, asmenys atsisakantys pateikti reikalaujamą informaciją ar dokumentus atsako pagal šio kodekso reikalavimus."
+  },
+  {
+    "Instruction": "Koks yra veiksmas, kai įtariama, kad asmuo vairavo neblaivus ar apsvaigęs vidaus vandenų transporto priemonę?",
+    "Output": "Pagal ANK 602 straipsnį, įtariama, kad asmuo padarė administracinį nusižengimą, už kurį gali būti skiriamas teisės vairuoti vidaus vandenų transporto priemonę atėmimas, todėl teisę vairuoti patvirtinantis dokumentas yra paimamas ir išduodamas laikinas leidimas vairuoti."
+  },
+  {
+    "Instruction": "Ką reiškia transporto priemonės priverstinis nuvežimas pagal kodeksą?",
+    "Output": "Pagal ANK 603 straipsnį, priverstinai nuvežti transporto priemonę galima padarius administracinį nusižengimą, kai tai trukdo saugiam transporto ar pėsčiųjų eismui, arba kai padaromas nusižengimas, už kurį gali būti skiriamas transporto priemonės konfiskavimas."
+  },
+  {
+    "Instruction": "Kada tikrinami vairuotojai dėl neblaivumo ar apsvaigimo pagal kodeksą?",
+    "Output": "Pagal ANK 605 straipsnį, vairuotojai yra tikrinami dėl neblaivumo ar apsvaigimo, kai yra pagrindo manyti, kad jie yra neblaivūs ar apsvaigę nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų."
+  },
+  {
+    "Instruction": "Kokia bauda numatyta, jei asmuo padarė pakartotinį administracinį nusižengimą pagal ANK 415 straipsnio 6 dalį?",
+    "Output": "Pagal ANK 610 straipsnį, asmuo, padaręs pakartotinį nusižengimą pagal 415 straipsnio 6 dalį, turi sumokėti minimalią baudą, nustatytą specialiosios dalies straipsnyje."
+  },
+  {
+    "Instruction": "Kokie yra pagrindai, dėl kurių administracinis nurodymas negali būti surašomas?",
+    "Output": "Pagal ANK 610 straipsnio 2 dalį, administracinis nurodymas negali būti surašomas, jei yra bent vienas iš šių pagrindų: nustatyta didesnė negu 1500 eurų maksimali bauda arba asmuo padarė pakartotinį administracinį nusižengimą, būdamas neblaivus ar apsvaigęs, bei kitų nurodytų pagrindų."
+  },
+  {
+    "Instruction": "Kokia bauda numatyta už nusižengimą, numatytą ANK 614 straipsnio 5 dalyje?",
+    "Output": "Pagal ANK 610 straipsnio 1 dalį, jei padaromas nusižengimas, numatytas specialiosios dalies straipsnyje, bauda yra lygi pusei minimalios baudos, jei nėra kitų sąlygų."
+  },
+  {
+    "Instruction": "Per kiek laiko reikia sumokėti administracinę baudą, kai nusižengimas buvo padarytas nedalyvaujant surašant protokolą?",
+    "Output": "Pagal ANK 610 straipsnio 1 dalį, bauda turi būti sumokėta per 30 kalendorinių dienų nuo administracinio nusižengimo protokolo su administraciniu nurodymu išsiuntimo dienos."
+  },
+  {
+    "Instruction": "Kokios yra minimalios ir maksimalios baudos, kurias galima taikyti pagal ANK specialiąją dalį?",
+    "Output": "Pagal ANK 609 straipsnio 2 dalies 4 punktą, administraciniame nurodyme nurodomi minimalus ir maksimalus baudos dydžiai, nustatyti specialiosios dalies straipsnio sankcijoje."
+  },
+  {
+    "Instruction": "Kokia bauda gali būti nustatyta, jei nusižengimas susijęs su specialiąja teise, atimta asmeniui?",
+    "Output": "Pagal ANK 28 straipsnio pakeitimus, nusižengimas susijęs su naudojimusi specialiąja teise, kai ji asmeniui atimta, gali užtraukti atitinkamą baudą nustatytą institucijos, nagrinėjančios administracinį nusižengimą."
+  },
+  {
+    "Instruction": "Kokio straipsnio dalyje minima atsakomybė už transporto priemonių vairavimą be privalomosios techninės apžiūros?",
+    "Output": "Pagal ANK 411 straipsnio pakeitimus, atsakomybė už transporto priemonių vairavimą, kurios nėra praeinamos privalomosios techninės apžiūros, nustatyta 415 straipsnio 2 dalyje."
+  },
+  {
+    "Instruction": "Koks yra terminas pranešti juridinio asmens vadovui apie administracinį nusižengimą?",
+    "Output": "Pagal ANK 467 straipsnio 2 dalį, juridinio asmens vadovui turi būti pranešta apie administracinį nusižengimą per penkias darbo dienas nuo pranešimo gavimo."
+  },
+  {
+    "Instruction": "Kada laikomas įvykdytas administracinis nurodymas pagal 613 straipsnio pakeitimus?",
+    "Output": "Pagal ANK 613 straipsnio 1 dalį, administracinis nurodymas laikomas įvykdytas, jei asmuo sumokėjo nustatytą baudą laiku, o administracinio nusižengimo protokolas neperduodamas bylos nagrinėjimui."
+  },
+  {
+    "Instruction": "Kokiais atvejais gali būti automatiškai suformuojamas administracinio nusižengimo protokolas pagal 612 straipsnį?",
+    "Output": "Pagal ANK 612 straipsnio 5 dalį, administracinio nusižengimo protokolas gali būti automatiškai suformuojamas, kai už nusižengimus numatytus pirmoje dalyje yra vykdomas papildomas tyrimas ir protokolas siunčiamas transporto priemonės savininkui."
+  },
+  {
+    "Instruction": "Kokia bauda už asmens padarytą nusižengimą be administracinio protokolo?",
+    "Output": "Pagal ANK 471 str., gali būti paskirtas įspėjimas be protokolo, jei nėra 610 straipsnio 2 dalyje nurodytų sąlygų."
+  },
+  {
+    "Instruction": "Kaip vyksta administracinio nusižengimo bylos nagrinėjimas ne teismo tvarka?",
+    "Output": "Pagal ANK 616 str., bylos nagrinėjamos rašytinio proceso tvarka, nekviečiant asmenų į nagrinėjimą."
+  },
+  {
+    "Instruction": "Kokios yra administracinių nusižengimų bylų nutarimų rūšys?",
+    "Output": "Pagal ANK 619 str., galima priimti nutarimą skirti nuobaudą, nutraukti teiseną arba motyvuotai perduoti bylą kitai institucijai."
+  },
+  {
+    "Instruction": "Per kiek dienų turi būti išnagrinėta administracinio nusižengimo byla?",
+    "Output": "Pagal ANK 616 str. 5 dalį, byla turi būti išnagrinėta per dvidešimt darbo dienų nuo protokolo įteikimo dienos."
+  },
+  {
+    "Instruction": "Kokiomis sąlygomis administracinio nusižengimo bylos nagrinėjimas gali vykti žodinio proceso tvarka?",
+    "Output": "Pagal ANK 616 str. 3 dalį, bylos nagrinėjimas vyksta žodinio proceso tvarka pagal asmens reikalavimą, pateiktą per penkiolika dienų nuo protokolo įteikimo."
+  },
+  {
+    "Instruction": "Kokia yra skundo dėl ne teismo tvarka priimto nutarimo administracinio nusižengimo byloje pateikimo tvarka?",
+    "Output": "Pagal ANK 625 str., institucija gali sutikti su skundu ir panaikinti nutarimą arba perduoti bylą apylinkės teismui."
+  },
+  {
+    "Instruction": "Per kiek laiko apylinkės teismas privalo išspręsti skundo dėl ne teismo tvarka priimto nutarimo priėmimo klausimą?",
+    "Output": "Pagal ANK 626 str. 2 dalį, teismas privalo išspręsti priėmimo klausimą per penkias darbo dienas nuo skundo gavimo dienos."
+  },
+  {
+    "Instruction": "Ar administracinio nusižengimo byla gali būti nagrinėjama teisme, jei kaltinamasis nedalyvauja posėdyje?",
+    "Output": "Pagal ANK 629 str. 1 dalį, byla gali būti nagrinėjama nedalyvaujant kaltinamajam, jei buvo laiku pranešta apie posėdžio laiką ir vietą, ir kaltinamasis neprašė atidėti bylos nagrinėjimo."
+  },
+  {
+    "Instruction": "Kokia yra administracinių nusižengimų bylų nagrinėjimo termino pradžia?",
+    "Output": "Pagal ANK 631 str. 1 dalį, bylų nagrinėjimas turi būti pradėtas per dvidešimt darbo dienų nuo bylos gavimo dienos."
+  },
+  {
+    "Instruction": "Kada gali būti pratęsiamas administracinių nusižengimų bylų nagrinėjimo terminas?",
+    "Output": "Pagal ANK 631 str. 2 dalį, terminas gali būti pratęsiamas, jei asmuo vengia atsakomybės ar yra objektyvių priežasčių, dėl kurių neįmanoma išnagrinėti bylos laiku."
+  },
+  {
+    "Instruction": "Kokia bauda už filmavimo ar fotografavimo tvarkos teismo posėdžio metu pažeidimą?",
+    "Output": "Pagal ANK 634 str., bauda už šį pažeidimą gali siekti iki trijų šimtų eurų fiziniams asmenims ir iki šešių šimtų eurų institucijų atstovams."
+  },
+  {
+    "Instruction": "Ką numato teismas asmeniui, kuris be pateisinamų priežasčių neįvykdo teisėjo reikalavimo pateikti įrodymus?",
+    "Output": "Pagal ANK 634 str., asmeniui gali būti skirta bauda iki trijų šimtų eurų, jei yra fizinis asmuo, ar iki šešių šimtų eurų, jei yra institucijų atstovas."
+  },
+  {
+    "Instruction": "Kokia sankcija taikoma liudytojui, kuris be pateisinamų priežasčių neatvyksta į teismo posėdį?",
+    "Output": "Pagal ANK 634 str., liudytojui gali būti skirta bauda iki trijų šimtų eurų."
+  },
+  {
+    "Instruction": "Kokios yra pasekmės, jei asmuo teismo posėdyje po teisėjo įspėjimo kalba be leidimo ar elgiasi nepagarbiai?",
+    "Output": "Pagal ANK 634 str., toks asmuo gali gauti baudą iki trijų šimtų eurų."
+  },
+  {
+    "Instruction": "Per kiek laiko reikia sumokėti teismo skirtą baudą pagal ANK 634 str.?",
+    "Output": "Pagal ANK 634 str., bauda turi būti sumokėta per penkiolika kalendorinių dienų nuo teismo nutarties įsiteisėjimo."
+  },
+  {
+    "Instruction": "Ar teismo nutartį skirti baudą galima apskųsti?",
+    "Output": "Pagal ANK 634 str., dėl teismo nutarties skirti baudą gali būti paduotas atskirasis skundas per dvidešimt kalendorinių dienų."
+  },
+  {
+    "Instruction": "Koks yra procesas, kai nutarimą administracinio nusižengimo byloje reikia apskųsti?",
+    "Output": "Pagal ANK 646 str., apeliacinis skundas dėl pirmosios instancijos teismo nutarimo (nutarties) paduodamas per dvidešimt kalendorinių dienų apygardos teismui per apylinkės teismą."
+  },
+  {
+    "Instruction": "Kokia teismo teisė priimti sprendimus administracinio nusižengimo bylose?",
+    "Output": "Pagal ANK 642 str., apylinkės teismas gali palikti nutarimą nepakeistą, panaikinti nutarimą ir administracinio nusižengimo teiseną nutraukti arba pačiam paskirti nuobaudą."
+  },
+  {
+    "Instruction": "Kaip sprendžiamas klausimas dėl ekspertizės darymo skundo nagrinėjimo metu?",
+    "Output": "Pagal ANK 640 str. 2 dalį, teisėjas, skirdamas ekspertizę, priima nutartį prieš tai pranešęs administracinio nusižengimo teisenoje dalyvaujantiems asmenims."
+  },
+  {
+    "Instruction": "Kada teismas gali pabloginti administracinėn atsakomybėn traukiamo asmens padėtį?",
+    "Output": "Pagal ANK 642 str. 2 dalį, teismas gali pabloginti šio asmens padėtį tik tada, kai dėl to yra pateiktas nukentėjusiojo skundas."
+  },
+  {
+    "Instruction": "Kokia yra bauda, jei teismas pripažįsta, kad liudytojo parodymai buvo melagingi?",
+    "Output": "Pagal ANK 658 str., byla gali būti atnaujinta, jei nustatyta, kad liudytojo ar nukentėjusiojo parodymai melagingi."
+  },
+  {
+    "Instruction": "Kiek laiko turi apygardos teismas išnagrinėti bylą dėl apeliacinio skundo?",
+    "Output": "Pagal ANK 651 str., byla turi būti išnagrinėta per trisdešimt darbo dienų nuo bylos gavimo dienos."
+  },
+  {
+    "Instruction": "Kuris straipsnis nurodo, kas gali pateikti prašymą atnaujinti administracinio nusižengimo bylą?",
+    "Output": "Pagal ANK 659 str., prašymą gali pateikti institucija, kurios pareigūnas atliko tyrimą, administracinėn atsakomybėn patrauktas asmuo, prokuroras ir kiti įgaliotieji asmenys."
+  },
+  {
+    "Instruction": "Kokia tvarka nagrinėjami atskirieji skundai apygardos teisme?",
+    "Output": "Pagal ANK 656 str. 5 d., atskirieji skundai nagrinėjami rašytinio proceso tvarka, tačiau jei reikia, gali būti nagrinėjami žodinio proceso tvarka."
+  },
+  {
+    "Instruction": "Per kiek laiko apygardos teismas turi grąžinti išnagrinėtą bylą apylinkės teismui?",
+    "Output": "Pagal ANK 655 str., byla turi būti grąžinta per penkias darbo dienas po nutarimo (nutarties) priėmimo."
+  },
+  {
+    "Instruction": "Kokia bauda už administracinio nusižengimo atnaujinimą, kai yra pagrindas?",
+    "Output": "Informacijoje apie nusižengimų kodeksą nėra nurodyta konkreti bauda už administracinio nusižengimo atnaujinimą, tačiau yra aptariama proceso tvarka dėl bylos atnaujinimo."
+  },
+  {
+    "Instruction": "Kokia yra teisė apskųsti institucijos sprendimą nutraukti tyrimą dėl naujų administracinio nusižengimo aplinkybių?",
+    "Output": "Pagal kodeksą, sprendimą per septynias kalendorines dienas galima apskųsti aukštesniajai institucijai arba apylinkės teismui."
+  },
+  {
+    "Instruction": "Kokia tvarka vyksta administracinio nusižengimo bylos atnaujinimas Lietuvos Aukščiausiajame Teisme?",
+    "Output": "Administracinio nusižengimo bylos atnaujinimas Lietuvos Aukščiausiajame Teisme vyksta pagal kodekso 662 straipsnyje nustatytą tvarką, tai paprastai nagrinėjama rašytinio proceso tvarka."
+  },
+  {
+    "Instruction": "Kokiais atvejais teismas gali atidėti atnaujintos administracinio nusižengimo bylos nagrinėjimą?",
+    "Output": "Administracinio nusižengimo bylos nagrinėjimą teismas gali atidėti, jeigu tam yra svarbių priežasčių, nurodytų kodekse."
+  },
+  {
+    "Instruction": "Kas priima sprendimą dėl administracinio nusižengimo bylos atnaujinimo Lietuvos Aukščiausiame Teisme?",
+    "Output": "Sprendimą dėl administracinio nusižengimo bylos atnaujinimo Lietuvos Aukščiausiame Teisme priima atrankos kolegija, Lietuvos Aukščiausiojo Teismo pirmininkas arba šio teismo Baudžiamųjų bylų skyriaus pirmininkas."
+  },
+  {
+    "Instruction": "Kokia yra turtinės žalos atlyginimo tvarka nesusitarus?",
+    "Output": "Pagal 665 str. 1 d., teismas gali nustatyti turtinės žalos dydį ir priteisti nukentėjusiajam žalos atlyginimą, atsižvelgiant į turtinės žalos dydį ir asmens finansinę padėtį."
+  },
+  {
+    "Instruction": "Ką apima administracinių nusižengimų bylų nagrinėjimo teisme išlaidų atlyginimas?",
+    "Output": "Pagal 666 str. 1 d., byloje patirtų išlaidų atlyginimas mutatis mutandis taikomas Baudžiamojo proceso kodeksui."
+  },
+  {
+    "Instruction": "Kokia yra nutarimų ir nutarčių administracinių nusižengimų bylose privalomybė?",
+    "Output": "Pagal 667 str. 1 d., įsiteisėję teismų nutarimai ir nutartys privalomi visiems asmenims ir institucijoms Lietuvos Respublikos teritorijoje."
+  },
+  {
+    "Instruction": "Kada nutarimas skirti baudą vykdomas priverstinai?",
+    "Output": "Pagal 676 str. 1 d., jeigu bauda nesumokama laiku pagal 675 str. 2 dalies nustatytą terminą, nutarimas vykdomas priverstine tvarka antstolių."
+  },
+  {
+    "Instruction": "Per kiek laiko turi būti sumokėta bauda už administracinį nusižengimą?",
+    "Output": "Pagal 675 str. 2 d., administracinėn atsakomybėn traukiamas asmuo baudą turi sumokėti per keturiasdešimt kalendorinių dienų."
+  },
+  {
+    "Instruction": "Kokia bauda skiriama už vengimą atlikti viešuosius darbus?",
+    "Output": "Pagal ANK 680 str., bauda skiriama pakeičiant viešuosius darbus bauda."
+  },
+  {
+    "Instruction": "Kas gali keisti viešuosius darbus į baudą?",
+    "Output": "Pagal ANK 680 str., teismas ar nutarimą dėl baudos pakeitimo viešaisiais darbais priėmusi institucija."
+  },
+  {
+    "Instruction": "Kokia teisių atėmimo trukmė asmenims, pažeidusiems įstatymus būnant neblaiviems?",
+    "Output": "Pagal ANK 686 str., specialiosios teisės atėmimo terminas skaičiuojamas nuo dokumento paėmimo ar teisės sustabdymo dienos."
+  },
+  {
+    "Instruction": "Kaip vykdomas turto, kurio konfiskavimas įvykdytas, realizavimas?",
+    "Output": "Pagal ANK 689 str., konfiskuotas turtas realizuojamas Lietuvos Respublikos finansų ministro nustatyta tvarka."
+  },
+  {
+    "Instruction": "Kam vykdyti administracinio poveikio priemonės įpareigojimą dalyvauti prevencijos kursuose?",
+    "Output": "Pagal ANK 691 str., eigą vykdo savivaldybės institucijos ir kitos Vyriausybės įgaliotos institucijos."
+  },
+  {
+    "Instruction": "Kaip vykdomas vairavimo teisių atėmimas?",
+    "Output": "Pagal ANK 682 str., teisių atėmimas vykdomas įrašant teisių atėmimą į Administracinių nusižengimų registrą."
+  },
+  {
+    "Instruction": "Kokia bauda už taršą iš laivų?",
+    "Output": "Pagal ANK 2005/35/EB, sankcijos už taršą iš laivų yra numatytos nusižengimų atveju."
+  },
+  {
+    "Instruction": "Kokia bauda už nedeklaruojamą ir nereglamentuotą žvejybą?",
+    "Output": "Pagal ANK 1005/2008, nusižengimai dėl nedeklaruojamos ir nereglamentuojamos žvejybos yra draudžiami ir baudžiami siekiant atgrasyti."
+  },
+  {
+    "Instruction": "Kokia bauda už ozono sluoksnio ardymą?",
+    "Output": "Pagal ANK 1005/2009, reglamentas nustato draudimus ir apribojimus ozono sluoksnį ardančių medžiagų naudojimui, už kuriuos taikomos sankcijos."
+  },
+  {
+    "Instruction": "Kokia bauda už genetiškai modifikuotų mikroorganizmų nusižengimą?",
+    "Output": "Pagal ANK 2009/41/EB, reglamentuojami apribojimai ir leidimai dėl genetiškai modifikuotų mikroorganizmų naudojimo, už kurių nesilaikymą taikomos sankcijos."
+  },
+  {
+    "Instruction": "Kokia bauda už orlaivių techninių reikalavimų nesilaikymą pagal Reglamentą (ES) Nr. 216/2008?",
+    "Output": "Pagal ANK atitinkamą straipsnį dėl techninių orlaivių reikalavimų nesilaikymo, nurodytą Reglamente (ES) Nr. 216/2008, bauda yra skirtina reguliuojančių institucijų sprendimu."
+  },
+  {
+    "Instruction": "Kas numatyta už finansų sistemos naudojimą pinigų plovimui pagal Direktyvą (ES) 2015/849?",
+    "Output": "Pagal ANK straipsnį dėl pinigų plovimo prevencijos pagal Direktyvą (ES) 2015/849, skiriama laisvės atėmimo arba didelė piniginė bauda."
+  },
+  {
+    "Instruction": "Ką numato taisyklės dėl tachografų pagal Reglamentą (ES) Nr. 165/2014?",
+    "Output": "Pagal ANK straipsnį dėl taisyklių nesilaikymo, numatytų Reglamente (ES) Nr. 165/2014 dėl tachografų naudojimo, gali būti skirta bauda transporto priemonės savininkui."
+  },
+  {
+    "Instruction": "Kokios baudos numatytos už prekybą nesaugiomis chemikalomis pagal Reglamentą (ES) Nr. 649/2012?",
+    "Output": "Pagal ANK straipsnį dėl nesaugių cheminių medžiagų eksporto ir importo pagal Reglamentą (ES) Nr. 649/2012, gali būti skirta piniginė bauda ar prekybos apribojimai."
+  },
+  {
+    "Instruction": "Kokia atsakomybė numatyta už nesklandumų jūrų ir vidaus vandenų keleivių teisėse pagal Reglamento (ES) Nr. 1177/2010?",
+    "Output": "Pagal ANK straipsnį dėl keleivių teisių nesklandumų, nurodytų Reglamento (ES) Nr. 1177/2010, taikomos sankcijos operatoriams gali apimti pinigines baudas."
+  },
+  {
+    "Instruction": "Kokios sankcijos taikomos už netinkamą šiltnamio efektą sukeliančių dujų kiekio stebėseną pagal Reglamento (ES) Nr. 601/2012?",
+    "Output": "Pagal ANK atitinkamą straipsnį dėl šiltnamio efektą sukeliančių dujų kiekio stebėsenos ir ataskaitų teikimo pažeidimų pagal Reglamento (ES) Nr. 601/2012, gali būti skirtos baudos aplinkosaugos institucijų."
+  },
+  {
+    "Instruction": "Kokia bauda už neleistiną chuliganišką vairavimą?",
+    "Output": "Pagal Lietuvos Respublikos administracinių nusižengimų kodeksą, ANK 420 straipsnis numato, kad bauda už chuliganišką vairavimą yra nuo 170 iki 230 eurų."
+  },
+  {
+    "Instruction": "Kokios sankcijos taikomos už neteisėtą narkotinių medžiagų turėjimą?",
+    "Output": "Pagal Lietuvos Respublikos administracinių nusižengimų kodeksą, ANK 44 straipsnis numato, kad už neteisėtą narkotinių medžiagų turėjimą gali būti taikoma bauda nuo 60 iki 140 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda skirta už viešosios tvarkos pažeidimą?",
+    "Output": "Pagal Lietuvos Respublikos administracinių nusižengimų kodeksą, ANK 481 straipsnis numato, kad bauda už viešosios tvarkos pažeidimą gali būti nuo 60 iki 120 eurų."
+  },
+  {
+    "Instruction": "Kokios pasekmės už girto vairavimą?",
+    "Output": "Pagal Lietuvos Respublikos administracinių nusižengimų kodeksą, ANK 422 straipsnis numato, kad už girto vairavimą bauda siekia nuo 300 iki 450 eurų, taip pat gali būti skiriama teisės vairuoti atėmimas iki 3 mėnesių."
+  },
+  {
+    "Instruction": "Kokia bauda taikoma už smulkų turtinį nusikaltimą?",
+    "Output": "Pagal Lietuvos Respublikos administracinių nusižengimų kodeksą, ANK 50 straipsnis numato, kad už smulkų turtinį nusikaltimą taikoma bauda nuo 18 iki 86 eurų."
+  },
+  {
+    "Instruction": "Kokia bauda numatyta pagal ANK 420 straipsnį?",
+    "Output": "Pagal ANK 420 straipsnį, bauda yra už chuliganišką elgesį arba viešosios tvarkos pažeidimą."
+  },
+  {
+    "Instruction": "Kas aprašyta ANK 424 straipsnyje?",
+    "Output": "ANK 424 straipsnyje aprašyti administraciniai nusižengimai, susiję su viešosios tvarkos pažeidimais."
+  },
+  {
+    "Instruction": "Kokį pažeidimą nagrinėja ANK 589 straipsnis?",
+    "Output": "ANK 589 straipsnis nagrinėja klausimus, susijusius su įvairiais administraciniais nusižengimais ir jų nagrinėjimo tvarka."
+  },
+  {
+    "Instruction": "Kokia bauda numatyta už ANK 422 straipsnio pažeidimą?",
+    "Output": "Bauda už ANK 422 straipsnio pažeidimą skirta už teisės aktų, susijusių su viešąja tvarka ir saugumu, nesilaikymą."
+  },
+  {
+    "Instruction": "Kas apibrėžiama ANK 247 straipsnyje?",
+    "Output": "ANK 247 straipsnis apibrėžia nusižengimus, susijusius su gyvūnų laikymo taisyklių pažeidimais."
+  },
+  {
+    "Instruction": "Kokia bauda už nusižengimo pagal Lietuvos Respublikos administracinių nusižengimų kodekso 12 straipsnį?",
+    "Output": "Pagal ANK 12 str., bauda yra numatyta už neteisėtą veiklą ar neveikimą, nesilaikant administracinių teisės normų, tačiau konkreti bauda priklauso nuo pažeidimo pobūdžio ir kitų teisės aktuose nurodytų kriterijų."
+  },
+  {
+    "Instruction": "Kokia bauda skirta pagal Lietuvos Respublikos administracinių nusižengimų kodekso 223 straipsnį?",
+    "Output": "Pagal ANK 223 str., bauda gali būti skiriama už nusižengimus susijusius su viešosios tvarkos pažeidimais, tačiau konkreti bauda nustatoma remiantis aplinkybėmis ir teisės aktuose numatytais kriterijais."
+  },
+  {
+    "Instruction": "Kokios sankcijos taikomos už pažeidimus pagal Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnį?",
+    "Output": "Pagal ANK 589 str., gali būti skiriamos įvairios sankcijos už administracinius nusižengimus, įskaitant baudas, tačiau konkreti sankcija priklauso nuo aplinkybių ir teisės aktuose numatytų sąlygų."
+  },
+  {
+    "Instruction": "Kokia bauda skiriama už pažeidimus pagal Lietuvos Respublikos administracinių nusižengimų kodekso 196 straipsnį?",
+    "Output": "Pagal ANK 196 str., yra numatomos baudos už specifinius pažeidimus, tačiau baudos dydis priklauso nuo nusižengimo pobūdžio ir teisės aktuose pateiktų detalių."
+  },
+  {
+    "Instruction": "Kokie pakeitimai atlikti Lietuvos Respublikos administracinių nusižengimų kodekso 377 straipsnyje?",
+    "Output": "Pagal paskutinius pakeitimus ANK 377 str., keičiamos nuostatos dėl administracinės atsakomybės už specifinius pažeidimus, tačiau konkretūs pakeitimai aprašyti teisės akte."
+  },
+  {
+    "Instruction": "Kokia bauda numatyta pagal ANK 33 straipsnį?",
+    "Output": "Pagal Lietuvos Respublikos administracinių nusižengimų kodekso 33 straipsnį ir pakeitimus (Įstatymo Nr. XV-624), nusižengimas ir bauda yra nurodyti įstatyme, kuris buvo paskelbtas 2025-12-05."
+  },
+  {
+    "Instruction": "Ką numato ANK 464 straipsnis po paskutinio pakeitimo?",
+    "Output": "Lietuvos Respublikos administracinių nusižengimų kodekso 464 straipsnio pakeitimas buvo įvestas Įstatymu Nr. XV-491, paskelbtu 2025-10-28. Nusižengimas ir baudos gali būti rastos šiame straipsnyje."
+  },
+  {
+    "Instruction": "Kokia bauda už pažeidimus pagal ANK 419 straipsnį?",
+    "Output": "Pagal Lietuvos Respublikos administracinių nusižengimų kodekso 419 straipsnį ir jo pakeitimą (Įstatymo Nr. XV-624), nusižengimas ir bauda yra nurodyti atitinkamuose teisės aktuose, paskelbtuose 2025-12-05."
+  },
+  {
+    "Instruction": "Kokie pakeitimai buvo padaryti ANK 521-1 straipsnyje?",
+    "Output": "Lietuvos Respublikos administracinių nusižengimų kodekso 521-1 straipsnis buvo papildytas Įstatymu Nr. XV-491, kuris buvo paskelbtas TAR 2025-10-28. Nusižengimai ir baudos apibrėžtos šiame straipsnyje."
+  },
+  {
+    "Instruction": "Kokia bauda numatyta pagal ANK 77 straipsnį po paskutinio pakeitimo?",
+    "Output": "Pagal Lietuvos Respublikos administracinių nusižengimų kodekso 77 straipsnio pakeitimą, kuris buvo įvestas Įstatymu Nr. XV-621, paskelbtu 2025-12-04, nusižengimas ir bauda nurodyti atitinkamuose teisės aktuose."
+  },
+  {
+    "Instruction": "Kokie straipsniai pateikia informaciją apie baudas pagal ANK 589 straipsnį?",
+    "Output": "Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnis buvo pakeistas kelis kartus (pvz., Įstatymu Nr. XV-482, XV-491, XV-624, ir XV-714) ir paskelbtas įvairiomis datomis. Jame apibrėžiami nusižengimai ir baudos."
+  }
+]
