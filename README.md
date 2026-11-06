@@ -159,6 +159,13 @@ Writes `results/answers.json` and `results/chunks.json`. Every answer gets a ver
 
 The API text loses superscripts, so article 342¹ comes as "3421". The parser fixes this from the order of the articles. If an article has several wordings with different dates, it keeps the one valid on the version date.
 
+## AI use
+We used AI for a few tasks in this project:
+- Dev questions. At our request, AI generated 20 dev questions, specifying the correct article part and fine for each.
+- Code and writing. AI provided occasional assistance with fixing bugs, writing and editing certain parts of the code, and drafting text.
+  
+This helped us work more efficiently. We used Claude Opus 5.5 and Sonnet 5.5.
+
 ## License
 
 - Code: MIT, see `LICENSE`.
